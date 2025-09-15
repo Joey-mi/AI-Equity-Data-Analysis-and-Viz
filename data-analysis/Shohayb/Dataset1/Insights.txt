@@ -1,0 +1,32 @@
+AI Non-Adoption Clustering Insights (k=4)
+
+Cluster 0 – Cautious but Curious
+Industries: Construction, Wholesale trade, Retail trade
+Barrier profile: High 'AI not relevant'; moderate 'lack of knowledge'; low cost, privacy, and workforce concerns.
+Deeper insight: These industries are large employers of frontline workers. They don’t face overwhelming cost or regulation issues,  the biggest hurdle is not seeing clear use cases. They are the 'swing group' that could adopt AI with the right nudges.
+Equity perspective: Risk of benefits concentrating at management level without inclusion of frontline workers. Opportunity to use AI to improve job safety, scheduling, and working conditions.
+
+Cluster 1 – Knowledge & Trust Gap
+Industries: Manufacturing, Transportation & warehousing, Finance & insurance, Professional, scientific & technical services
+Barrier profile: Moderate 'AI not relevant'; high 'lack of knowledge'; elevated privacy/security concerns; some cost and skills gap concerns.
+Deeper insight: These industries know AI is relevant but don’t trust it fully. Data privacy, bias, and skill shortages stand out. They’re diverse in sub-barriers, reflecting readiness but caution.
+Equity perspective: Finance/professional services could accelerate faster than rural/traditional sectors, widening divides. Transport/warehousing employs many immigrant and minority workers who risk displacement. Needs inclusive training and trust frameworks.
+
+Cluster 2 – AI Not Relevant (Majority Block)
+Industries: Agriculture, forestry, fishing, hunting; Utilities; Real estate and rental/leasing; Administrative/support/waste management; Educational services; Health care and social assistance; Arts, entertainment and recreation; Accommodation and food services; Other services (except public administration)
+Barrier profile: Overwhelmingly 'AI not relevant'; strong 'lack of knowledge'; very low cost, skills, privacy mentions.
+Deeper insight: This is the largest cluster, representing rural, service, and social sectors. Their defining feature is a perception barrier: they don’t believe AI applies. Yet many could benefit (AI in farming, healthcare, utilities).
+Equity perspective: Low-margin, rural, and small-business-heavy sectors risk systematic exclusion. Without outreach, Canada risks deepening the urban–rural digital divide. Needs applied demonstrations and rural training hubs.
+
+Cluster 3 – Disillusioned Outlier
+Industries: Information & cultural industries
+Barrier profile: 'AI did not meet expectations'; 'Lack of knowledge'.
+Deeper insight: This cluster is unique because it cites failed past AI experiences. Shows that bad pilots create lasting resistance.
+Equity perspective: Cultural workers already face precarious employment. Failed AI rollouts risk worsening distrust. Needs ethical AI, transparent reporting, and support for human–AI collaboration.
+
+Cross-Cluster Insights
+1. Relevance dominates, the biggest reason for non-adoption is lack of perceived relevance, not cost.
+2. Knowledge gaps are universal. Every cluster lists 'lack of knowledge' as a top barrier.
+3. Outliers matter.  Cluster 3 proves failed adoption is as damaging as no adoption.
+4. Adoption is a pathway. Industries can move from irrelevance to curiosity to trust gap, and risk disillusionment if pilots fail.
+5. Equity requires tailoring. Cluster 2 needs relevance demonstrations, Cluster 0 needs pilots, Cluster 1 needs trust frameworks, Cluster 3 needs confidence rebuilding.
