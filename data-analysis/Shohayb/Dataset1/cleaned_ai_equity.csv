@@ -1,0 +1,57 @@
+Industry,AI too expensive,AI not mature enough,Lack of knowledge,Privacy concerns,Bias concerns,Lack of skilled workforce,Lack of required data,Legal restrictions,AI did not meet expectations,Other reason,AI not relevant
+"Professional, scientific and technical services",4.3,11.5,10.8,9.8,5.0,3.7,4.5,6.0,1.2,1.0,74.5
+"Administrative and support, waste management and remediation services",2.4,4.7,5.4,5.0,0.8,6.0,1.6,0.5,0.4,0.9,80.8
+Health care and social assistance,2.9,8.4,9.5,10.7,1.6,1.5,1.3,3.2,0.8,0.0,79.9
+"Arts, entertainment and recreation",0.5,7.5,14.1,15.1,4.1,1.3,6.4,3.3,5.4,5.4,68.7
+Accommodation and food services,5.9,5.5,13.0,6.0,1.3,5.1,2.2,0.1,0.6,1.6,79.1
+Other services (except public administration),1.5,3.0,13.2,7.3,5.2,3.6,4.9,0.7,1.8,1.2,80.2
+"Business or organization size of employment, all employment sizes 6",4.7,7.6,11.3,8.1,3.2,4.6,3.0,2.2,1.5,1.7,78.1
+1 to 4 employees,4.8,7.6,10.5,7.7,3.1,4.2,3.0,2.4,1.0,1.4,77.8
+5 to 19 employees,3.7,6.3,10.7,7.6,2.7,4.7,3.1,1.6,1.9,2.5,81.1
+20 to 99 employees,6.7,11.0,17.4,11.1,4.9,5.5,3.3,2.8,2.5,0.8,72.5
+100 or more employees,5.2,9.6,10.0,9.8,1.8,5.9,1.6,0.5,1.3,4.5,71.7
+"Business or organization type, all businesses or organizations",4.7,7.6,11.3,8.1,3.2,4.6,3.0,2.2,1.5,1.7,78.1
+Government agencies,0.0,,14.9,14.8,0.0,0.0,0.0,0.0,14.8,0.3,
+Private sector businesses,4.9,7.7,11.1,7.8,2.9,4.4,2.8,2.2,1.3,1.7,78.5
+Non-profit organizations,1.8,3.8,14.9,12.1,7.3,6.3,6.0,2.2,3.2,1.8,74.7
+Non-profit organizations serving households or individuals,0.9,3.2,15.9,12.7,7.1,5.9,5.7,1.4,2.5,1.6,72.8
+Non-profit organizations serving businesses,7.8,7.8,8.1,8.2,8.1,8.5,7.9,7.7,7.7,2.7,88.2
+"Age of business or organization, all ages",4.7,7.6,11.3,8.1,3.2,4.6,3.0,2.2,1.5,1.7,78.1
+"Age of business or organization, 2 years or less",3.4,15.8,11.1,7.0,4.4,14.2,1.1,3.1,1.0,0.7,70.0
+"Age of business or organization, 3 to 10 years old",6.3,9.7,7.8,8.9,2.7,3.8,2.6,3.2,2.8,2.4,77.6
+"Age of business or organization, 11 to 20 years old",3.7,6.2,14.4,8.5,2.4,4.5,4.8,3.0,0.4,1.4,76.8
+"Age of business or organization, more than 20 years old",4.3,6.3,11.6,7.3,3.9,4.3,2.2,0.8,1.3,1.6,80.2
+"Geography, all geography",4.7,7.6,11.3,8.1,3.2,4.6,3.0,2.2,1.5,1.7,78.1
+Urban,5.3,8.2,11.8,8.4,3.5,4.8,3.2,2.3,1.5,1.7,77.1
+Rural,1.9,4.6,9.1,6.6,1.8,3.3,2.3,1.7,1.2,1.6,83.0
+"Majority ownership, all ownerships 7",4.9,7.7,11.1,7.8,2.9,4.4,2.8,2.2,1.3,1.7,78.5
+"Majority ownership, woman",4.0,5.9,6.0,8.1,1.8,1.5,1.4,2.9,2.3,0.9,80.3
+"Majority ownership, First Nations, MÃ©tis or Inuit",8.4,10.7,14.1,9.3,9.0,7.0,6.5,6.5,6.9,1.0,77.4
+"Majority ownership, immigrant to Canada",4.2,8.6,8.3,6.8,1.2,5.8,1.6,1.5,0.9,1.5,79.7
+"Majority ownership, person with a disability",4.7,1.4,7.1,6.6,1.9,0.0,0.0,0.0,1.1,0.6,82.3
+"Majority ownership, LGBTQ2 people 8",3.2,11.0,13.8,10.6,2.0,0.0,4.1,0.0,1.9,1.3,75.8
+"Majority ownership, visible minority",5.4,7.8,12.4,7.7,0.7,3.9,1.1,0.5,2.2,1.9,76.0
+"Ownership by visible minority, all visible minorities 9",5.4,7.8,12.4,7.7,0.7,3.9,1.1,0.5,2.2,1.9,76.0
+"Ownership by visible minority, South Asian",6.2,7.9,16.2,10.0,0.9,4.4,0.8,0.0,6.1,0.5,67.2
+"Ownership by visible minority, Chinese",6.9,8.6,12.1,9.2,0.0,4.8,3.1,2.3,0.1,0.7,79.7
+"Ownership by visible minority, Black",4.3,1.4,5.2,1.5,0.2,1.1,0.6,0.5,0.0,8.6,79.9
+"Ownership by visible minority, Filipino",2.4,12.0,,10.9,10.9,0.0,0.0,0.0,0.0,0.0,
+"Ownership by visible minority, Latin American",0.0,11.7,1.7,1.7,0.0,1.7,1.7,0.0,0.0,0.0,86.6
+"Ownership by visible minority, Arab",14.9,15.7,15.5,12.4,0.0,15.8,1.3,0.0,0.0,1.4,
+"Ownership by visible minority, Southeast Asian",0.0,,,,1.1,4.5,1.0,0.0,0.0,0.0,
+"Ownership by visible minority, West Asian",0.0,0.7,0.7,0.7,0.0,0.0,0.0,0.0,0.0,0.0,99.2
+"Ownership by visible minority, Korean",3.3,10.1,7.1,0.0,0.0,3.9,0.0,0.0,0.0,0.0,82.7
+"Ownership by visible minority, Japanese",,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+"Ownership by visible minority, other visible minority",0.0,5.3,0.7,0.7,0.1,0.0,0.0,0.0,0.0,0.1,94.6
+"Ownership by visible minority, preferred not to say",0.0,0.2,3.3,0.0,0.0,3.3,0.0,0.0,0.0,0.0,96.4
+"Business or organization activity in the last 12 months, all business or organization activities",4.7,7.6,11.3,8.1,3.2,4.6,3.0,2.2,1.5,1.7,78.1
+Exported goods outside of Canada,9.0,16.2,19.3,12.5,4.5,10.1,6.9,1.4,4.4,4.0,69.3
+Exported services outside of Canada,13.7,21.7,22.3,20.4,8.1,11.3,2.2,5.4,0.1,7.9,61.0
+Made investments outside of Canada,16.5,28.0,44.4,28.3,16.5,7.6,6.3,3.3,0.7,0.0,47.4
+Sold goods to businesses in Canada who then resold them outside of Canada,14.8,16.3,27.3,13.1,10.7,12.8,10.3,2.7,4.7,2.0,63.5
+Imported goods from outside of Canada,7.4,12.5,18.8,14.5,7.3,7.7,6.0,2.5,3.1,2.6,68.5
+Imported services from outside of Canada,13.6,20.2,22.0,21.7,10.9,7.5,4.4,2.2,3.1,2.7,66.1
+Relocated any business or organizational activities or employees from another country into Canada,,,,57.0,,2.0,,0.0,0.0,5.8,27.4
+Relocated any business or organizational activities or employees from Canada to another country,,,,,,0.1,0.1,0.0,0.0,0.0,
+Engaged in other international business activities,16.1,2.0,,14.6,14.2,,,2.7,0.5,1.5,48.8
+"Business or organization activity, none or other",4.1,6.3,8.9,6.5,2.2,3.6,2.0,2.1,1.2,1.3,81.2
