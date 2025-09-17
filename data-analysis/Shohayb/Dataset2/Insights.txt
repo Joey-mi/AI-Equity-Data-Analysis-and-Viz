@@ -1,0 +1,38 @@
+AI Non-Adoption Clustering Insights (2024, k=5)
+
+Cluster 0 – Cost & Maturity Skeptics
+Industries: Manufacturing, Wholesale trade
+Barrier profile: High 'AI too expensive' and 'AI not mature enough'; moderate 'lack of knowledge'; low 'AI not relevant'.
+Deeper insight: These industries see AI as relevant but worry about ROI and technical readiness. Their hesitation comes from economic pragmatism (cost–benefit balance) rather than denial of AI’s applicability.
+Equity perspective: Risk that smaller firms in these capital-intensive industries will fall behind larger competitors who can absorb AI costs. Needs targeted subsidies, shared infrastructure, and R&D partnerships to level the playing field.
+
+Cluster 1 – Trust & Skills Gap
+Industries: Finance & insurance; Professional, scientific & technical services
+Barrier profile: Elevated privacy/security concerns and lack of skilled workforce; moderate knowledge gaps; low 'AI not relevant'.
+Deeper insight: These are digitally mature sectors but are constrained by talent shortages and trust issues (bias, security, ethics). They are willing adopters if workforce and governance barriers are resolved.
+Equity perspective: Risk of a digital elite forming — these sectors are urban, high-income, and globally competitive. Without inclusive upskilling, AI could reinforce income and regional inequalities. Needs workforce retraining pipelines and strong regulatory frameworks.
+
+Cluster 2 – The 'AI Not Relevant' Block
+Industries: Agriculture, forestry, fishing, hunting; Utilities; Real estate and rental/leasing; Educational services; Health care and social assistance; Arts, entertainment and recreation; Accommodation and food services; Other services (except public administration)
+Barrier profile: Overwhelmingly 'AI not relevant'; strong 'lack of knowledge'; low cost, skills, and privacy concerns.
+Deeper insight: This is the largest cluster, concentrated in rural, service, and social sectors. Their barrier is perception, not feasibility — many don’t believe AI applies to their work, even though relevant use cases exist.
+Equity perspective: Risk of structural exclusion if rural and service-heavy industries are left out of AI policy. Without tailored outreach, Canada risks widening the urban–rural digital divide. Needs sector-specific demonstrations (AI in farming, smart grids, healthcare scheduling).
+
+Cluster 3 – Administrative & Support Laggers
+Industries: Administrative/support/waste management
+Barrier profile: Moderate 'lack of required data' and 'lack of knowledge'; scattered minor barriers.
+Deeper insight: This single-industry cluster reflects the data poverty problem — firms in this sector cannot easily generate or access the datasets required for AI.
+Equity perspective: Risk that mid-sized service firms without structured data fall behind larger organizations. Needs data infrastructure support, open data platforms, and training on data management.
+
+Cluster 4 – Disillusioned Outlier
+Industries: Information & cultural industries
+Barrier profile: 'AI did not meet expectations' combined with 'lack of knowledge'.
+Deeper insight: Unique cluster because of negative past experiences with AI tools. Reflects sectors (media, cultural production) that experimented early but were disappointed.
+Equity perspective: Cultural workers already face precarious conditions. Failed AI rollouts risk further distrust and resistance. Needs confidence rebuilding through ethical standards, transparency, and funding for human–AI collaboration.
+
+Cross-Cluster Insights (2024)
+1. Relevance & cost differ across clusters – Some industries deny AI’s relevance (Cluster 2), while others (Cluster 0) see relevance but reject it as too costly.
+2. Knowledge gaps remain universal – Every cluster cites 'lack of knowledge.' Training and awareness are critical.
+3. Trust & skills are concentrated barriers – Finance and professional services (Cluster 1) face acute shortages in talent and trust frameworks.
+4. Outliers reveal structural issues – Cluster 3 highlights data availability, while Cluster 4 shows failed pilots can cement resistance.
+5. Equity requires tailored policy – Cluster 2 needs relevance demonstrations, Cluster 0 needs cost-sharing/subsidies, Cluster 1 needs talent & trust frameworks, Cluster 3 needs data access supports, Cluster 4 needs confidence rebuilding.
