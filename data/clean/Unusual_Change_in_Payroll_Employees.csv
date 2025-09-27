@@ -1,0 +1,11 @@
+,GEO,North American Industry Classification System (NAICS),Statistics,UOM,REF_DATE,VALUE,STATUS,Quarter,Year,Difference by Quarter,Median by Quarter,Median Change by Quarter,MAD by Quarter,Lower Bound,Upper Bound,ZScore,Normality
+0,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2025-01-01,218155.0,A,1,2025,6525.0,200472.5,772.5,6127.5,185153.75,215791.25,2.8857609139126885,Unusual
+1,Canada,Construction [23],Payroll employees,Number,2025-01-01,1182930.0,A,1,2025,9470.0,1043335.0,16180.0,61010.0,890810.0,1195860.0,2.288067529913129,Unusual
+2,Canada,Finance and insurance [52],Payroll employees,Number,2025-01-01,853175.0,A,1,2025,11390.0,747847.5,9717.5,26832.5,680766.25,814928.75,3.9253703531165565,Very Unusual
+3,Canada,Educational services [61],Payroll employees,Number,2025-01-01,1479810.0,A,1,2025,34440.0,1351105.0,31960.0,61657.5,1196961.25,1505248.75,2.0874184000324374,Unusual
+4,Canada,Health care and social assistance [62],Payroll employees,Number,2025-01-01,2437480.0,A,1,2025,87635.0,2105047.5,59932.5,138162.5,1759641.25,2450453.75,2.4060978919750293,Unusual
+5,Canada,Other services (except public administration) [81],Payroll employees,Number,2025-01-01,571780.0,A,1,2025,-1580.0,548865.0,1970.0,8710.0,527090.0,570640.0,2.6308840413318024,Unusual
+6,Canada,Public administration [91],Payroll employees,Number,2025-01-01,584645.0,A,1,2025,19270.0,516762.5,12777.5,19030.0,469187.5,564337.5,3.56713084603258,Very Unusual
+7,Canada,Finance and insurance [52],Payroll employees,Number,2025-04-01,849835.0,A,2,2025,2970.0,754175.0,8095.0,33265.0,671012.5,837337.5,2.8756951751089734,Unusual
+8,Canada,Health care and social assistance [62],Payroll employees,Number,2025-04-01,2449900.0,A,2,2025,75975.0,2142450.0,62430.0,146570.0,1776025.0,2508875.0,2.0976325305314867,Unusual
+9,Canada,Public administration [91],Payroll employees,Number,2025-04-01,589650.0,A,2,2025,20785.0,517650.0,11125.0,26555.0,451262.5,584037.5,2.711353794012427,Unusual
