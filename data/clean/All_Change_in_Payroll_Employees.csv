@@ -1,0 +1,757 @@
+,GEO,North American Industry Classification System (NAICS),Statistics,UOM,REF_DATE,VALUE,STATUS,Quarter,Year,Difference by Quarter,Median by Quarter,Median Change by Quarter,MAD by Quarter,Lower Bound,Upper Bound,ZScore,Normality
+253,Canada,"Total, all industries",Payroll employees,Number,2016-01-01,15202010.0,A,1,2016,0.0,16233475.0,226257.5,791880.0,14253775.0,18213175.0,-1.3025521543668233,Normal
+256,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2016-01-01,210480.0,A,1,2016,0.0,234950.0,2467.5,6447.5,218831.25,251068.75,-3.795269484296239,Normal
+259,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2016-01-01,196245.0,A,1,2016,0.0,200472.5,772.5,6127.5,185153.75,215791.25,-0.689922480620155,Normal
+262,Canada,Utilities [22],Payroll employees,Number,2016-01-01,116470.0,A,1,2016,0.0,127075.0,2545.0,4465.0,115912.5,138237.5,-2.3751399776035833,Normal
+265,Canada,Construction [23],Payroll employees,Number,2016-01-01,966885.0,A,1,2016,0.0,1043335.0,16180.0,61010.0,890810.0,1195860.0,-1.2530732666775939,Normal
+268,Canada,Manufacturing [31-33],Payroll employees,Number,2016-01-01,1483205.0,A,1,2016,0.0,1551620.0,7507.5,15417.5,1513076.25,1590163.75,-4.43748986541268,Normal
+271,Canada,Wholesale trade [41],Payroll employees,Number,2016-01-01,779970.0,A,1,2016,0.0,812322.5,4540.0,11230.0,784247.5,840397.5,-2.880899376669635,Normal
+274,Canada,Retail trade [44-45],Payroll employees,Number,2016-01-01,1946305.0,A,1,2016,0.0,1992642.5,1065.0,22745.0,1935780.0,2049505.0,-2.0372609364695538,Normal
+277,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2016-01-01,722535.0,A,1,2016,0.0,777977.5,12892.5,39902.5,678221.25,877733.75,-1.3894492826264018,Normal
+280,Canada,Information and cultural industries [51],Payroll employees,Number,2016-01-01,350575.0,A,1,2016,0.0,358825.0,-1115.0,6577.5,342381.25,375268.75,-1.2542759407069555,Normal
+283,Canada,Finance and insurance [52],Payroll employees,Number,2016-01-01,719475.0,A,1,2016,0.0,747847.5,9717.5,26832.5,680766.25,814928.75,-1.0573930867418242,Normal
+286,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2016-01-01,295920.0,A,1,2016,0.0,292810.0,1387.5,2160.0,287410.0,298210.0,1.4398148148148149,Normal
+289,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2016-01-01,856645.0,A,1,2016,0.0,991570.0,25527.5,119185.0,693607.5,1289532.5,-1.1320635986072072,Normal
+292,Canada,Management of companies and enterprises [55],Payroll employees,Number,2016-01-01,98760.0,B,1,2016,0.0,114257.5,1797.5,8630.0,92682.5,135832.5,-1.7957705677867903,Normal
+295,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2016-01-01,785480.0,A,1,2016,0.0,819570.0,8152.5,17922.5,774763.75,864376.25,-1.9020783930813223,Normal
+298,Canada,Educational services [61],Payroll employees,Number,2016-01-01,1244690.0,A,1,2016,0.0,1351105.0,31960.0,61657.5,1196961.25,1505248.75,-1.7259052021246402,Normal
+301,Canada,Health care and social assistance [62],Payroll employees,Number,2016-01-01,1870555.0,A,1,2016,0.0,2105047.5,59932.5,138162.5,1759641.25,2450453.75,-1.6972224735365964,Normal
+304,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2016-01-01,277475.0,A,1,2016,0.0,300275.0,9102.5,14527.5,263956.25,336593.75,-1.5694372741352607,Normal
+307,Canada,Accommodation and food services [72],Payroll employees,Number,2016-01-01,1252965.0,A,1,2016,0.0,1296117.5,16772.5,31842.5,1216511.25,1375723.75,-1.3551856795163697,Normal
+310,Canada,Other services (except public administration) [81],Payroll employees,Number,2016-01-01,540630.0,A,1,2016,0.0,548865.0,1970.0,8710.0,527090.0,570640.0,-0.9454649827784156,Normal
+313,Canada,Public administration [91],Payroll employees,Number,2016-01-01,486745.0,A,1,2016,0.0,516762.5,12777.5,19030.0,469187.5,564337.5,-1.577377824487651,Normal
+316,Canada,"Total, all industries",Payroll employees,Number,2016-04-01,15245580.0,A,2,2016,0.0,16215525.0,242115.0,792955.0,14233137.5,18197912.5,-1.223203082142114,Normal
+319,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2016-04-01,211135.0,A,2,2016,0.0,238605.0,3460.0,6395.0,222617.5,254592.5,-4.295543393275997,Normal
+322,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2016-04-01,189490.0,A,2,2016,0.0,201650.0,3615.0,10595.0,175162.5,228137.5,-1.1477111845210004,Normal
+325,Canada,Utilities [22],Payroll employees,Number,2016-04-01,117880.0,A,2,2016,0.0,127485.0,3390.0,4560.0,116085.0,138885.0,-2.106359649122807,Normal
+328,Canada,Construction [23],Payroll employees,Number,2016-04-01,968490.0,A,2,2016,0.0,1053595.0,19370.0,68660.0,881945.0,1225245.0,-1.2395135450043693,Normal
+331,Canada,Manufacturing [31-33],Payroll employees,Number,2016-04-01,1479825.0,A,2,2016,0.0,1550885.0,7805.0,13385.0,1517422.5,1584347.5,-5.308927904370564,Normal
+334,Canada,Wholesale trade [41],Payroll employees,Number,2016-04-01,777615.0,A,2,2016,0.0,809120.0,1045.0,13585.0,775157.5,843082.5,-2.319101950680898,Normal
+337,Canada,Retail trade [44-45],Payroll employees,Number,2016-04-01,1949415.0,A,2,2016,0.0,1980185.0,985.0,29785.0,1905722.5,2054647.5,-1.0330703374181636,Normal
+340,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2016-04-01,725565.0,A,2,2016,0.0,776305.0,8815.0,41930.0,671480.0,881130.0,-1.2101120915812067,Normal
+343,Canada,Information and cultural industries [51],Payroll employees,Number,2016-04-01,349490.0,A,2,2016,0.0,359060.0,-5185.0,9570.0,335135.0,382985.0,-1.0,Normal
+346,Canada,Finance and insurance [52],Payroll employees,Number,2016-04-01,720910.0,A,2,2016,0.0,754175.0,8095.0,33265.0,671012.5,837337.5,-1.0,Normal
+349,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2016-04-01,292745.0,A,2,2016,0.0,293220.0,1045.0,1045.0,290607.5,295832.5,-0.45454545454545453,Normal
+352,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2016-04-01,857575.0,A,2,2016,0.0,1023140.0,36355.0,137770.0,678715.0,1367565.0,-1.2017492922987587,Normal
+355,Canada,Management of companies and enterprises [55],Payroll employees,Number,2016-04-01,97590.0,B,2,2016,0.0,115700.0,1735.0,8175.0,95262.5,136137.5,-2.215290519877676,Normal
+358,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2016-04-01,788065.0,A,2,2016,0.0,824235.0,5455.0,12070.0,794060.0,854410.0,-2.996685998342999,Normal
+361,Canada,Educational services [61],Payroll employees,Number,2016-04-01,1252555.0,A,2,2016,0.0,1347305.0,36600.0,76895.0,1155067.5,1539542.5,-1.232199752909812,Normal
+364,Canada,Health care and social assistance [62],Payroll employees,Number,2016-04-01,1894645.0,A,2,2016,0.0,2142450.0,62430.0,146570.0,1776025.0,2508875.0,-1.6906938664119533,Normal
+367,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2016-04-01,281210.0,A,2,2016,0.0,299630.0,8495.0,16965.0,257217.5,342042.5,-1.085764809902741,Normal
+370,Canada,Accommodation and food services [72],Payroll employees,Number,2016-04-01,1262240.0,A,2,2016,0.0,1295590.0,19975.0,25920.0,1230790.0,1360390.0,-1.2866512345679013,Normal
+373,Canada,Other services (except public administration) [81],Payroll employees,Number,2016-04-01,538050.0,A,2,2016,0.0,547500.0,7870.0,12245.0,516887.5,578112.5,-0.7717435688035933,Normal
+376,Canada,Public administration [91],Payroll employees,Number,2016-04-01,491095.0,A,2,2016,0.0,517650.0,11125.0,26555.0,451262.5,584037.5,-1.0,Normal
+379,Canada,"Total, all industries",Payroll employees,Number,2016-07-01,15293245.0,A,3,2016,0.0,16115117.5,314250.0,561012.5,14712586.25,17517648.75,-1.4649807268108999,Normal
+382,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2016-07-01,211635.0,A,3,2016,0.0,234845.0,3275.0,6605.0,218332.5,251357.5,-3.514004542013626,Normal
+385,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2016-07-01,187835.0,A,3,2016,0.0,201995.0,2437.5,7967.5,182076.25,221913.75,-1.7772199560715407,Normal
+388,Canada,Utilities [22],Payroll employees,Number,2016-07-01,119225.0,A,3,2016,0.0,126665.0,1500.0,4862.5,114508.75,138821.25,-1.530077120822622,Normal
+391,Canada,Construction [23],Payroll employees,Number,2016-07-01,970095.0,A,3,2016,0.0,1052787.5,19900.0,62135.0,897450.0,1208125.0,-1.330852176711998,Normal
+394,Canada,Manufacturing [31-33],Payroll employees,Number,2016-07-01,1481020.0,A,3,2016,0.0,1554265.0,24422.5,24422.5,1493208.75,1615321.25,-2.9990787183949226,Normal
+397,Canada,Wholesale trade [41],Payroll employees,Number,2016-07-01,777525.0,A,3,2016,0.0,810057.5,7955.0,13412.5,776526.25,843588.75,-2.4255358807082943,Normal
+400,Canada,Retail trade [44-45],Payroll employees,Number,2016-07-01,1948125.0,A,3,2016,0.0,1985932.5,2612.5,18305.0,1940170.0,2031695.0,-2.065419284348539,Normal
+403,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2016-07-01,727510.0,A,3,2016,0.0,775547.5,16682.5,33587.5,691578.75,859516.25,-1.4302195757350205,Normal
+406,Canada,Information and cultural industries [51],Payroll employees,Number,2016-07-01,352695.0,A,3,2016,0.0,358352.5,-1265.0,2970.0,350927.5,365777.5,-1.9048821548821548,Normal
+409,Canada,Finance and insurance [52],Payroll employees,Number,2016-07-01,718945.0,A,3,2016,0.0,757807.5,14242.5,35930.0,667982.5,847632.5,-1.0816170331199555,Normal
+412,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2016-07-01,292750.0,A,3,2016,0.0,292767.5,2830.0,2420.0,286717.5,298817.5,-0.007231404958677686,Normal
+415,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2016-07-01,862110.0,A,3,2016,0.0,1017830.0,42847.5,139642.5,668723.75,1366936.25,-1.1151332867858996,Normal
+418,Canada,Management of companies and enterprises [55],Payroll employees,Number,2016-07-01,97275.0,B,3,2016,0.0,114432.5,3080.0,9467.5,90763.75,138101.25,-1.8122524425666755,Normal
+421,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2016-07-01,792155.0,A,3,2016,0.0,819757.5,6225.0,13692.5,785526.25,853988.75,-2.015884608362242,Normal
+424,Canada,Educational services [61],Payroll employees,Number,2016-07-01,1255035.0,A,3,2016,0.0,1344865.0,37962.5,57400.0,1201365.0,1488365.0,-1.5649825783972124,Normal
+427,Canada,Health care and social assistance [62],Payroll employees,Number,2016-07-01,1913325.0,A,3,2016,0.0,2122607.5,62685.0,139980.0,1772657.5,2472557.5,-1.4950885840834405,Normal
+430,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2016-07-01,283910.0,A,3,2016,0.0,298092.5,8637.5,14007.5,263073.75,333111.25,-1.0124933071568802,Normal
+433,Canada,Accommodation and food services [72],Payroll employees,Number,2016-07-01,1271065.0,A,3,2016,0.0,1301892.5,19617.5,24792.5,1239911.25,1363873.75,-1.2434203892306142,Normal
+436,Canada,Other services (except public administration) [81],Payroll employees,Number,2016-07-01,536630.0,A,3,2016,0.0,546332.5,7852.5,10930.0,519007.5,573657.5,-0.8876944190301921,Normal
+439,Canada,Public administration [91],Payroll employees,Number,2016-07-01,494365.0,A,3,2016,0.0,515717.5,12580.0,13042.5,483111.25,548323.75,-1.6371477860839563,Normal
+442,Canada,"Total, all industries",Payroll employees,Number,2016-10-01,15362185.0,A,4,2016,0.0,16153080.0,314375.0,750850.0,14275955.0,18030205.0,-1.0533328893920224,Normal
+445,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2016-10-01,212115.0,A,4,2016,0.0,233705.0,4565.0,7100.0,215955.0,251455.0,-3.0408450704225354,Normal
+448,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2016-10-01,186735.0,A,4,2016,0.0,201695.0,4810.0,6715.0,184907.5,218482.5,-2.2278481012658227,Normal
+451,Canada,Utilities [22],Payroll employees,Number,2016-10-01,119460.0,A,4,2016,0.0,126590.0,2135.0,4465.0,115427.5,137752.5,-1.5968645016797312,Normal
+454,Canada,Construction [23],Payroll employees,Number,2016-10-01,972425.0,A,4,2016,0.0,1050165.0,29735.0,40725.0,948352.5,1151977.5,-1.90890116635973,Normal
+457,Canada,Manufacturing [31-33],Payroll employees,Number,2016-10-01,1487795.0,A,4,2016,0.0,1560885.0,19530.0,21860.0,1506235.0,1615535.0,-3.3435498627630373,Normal
+460,Canada,Wholesale trade [41],Payroll employees,Number,2016-10-01,775250.0,A,4,2016,0.0,812170.0,10200.0,12550.0,780795.0,843545.0,-2.941832669322709,Normal
+463,Canada,Retail trade [44-45],Payroll employees,Number,2016-10-01,1960460.0,A,4,2016,0.0,1987880.0,7065.0,12350.0,1957005.0,2018755.0,-2.220242914979757,Normal
+466,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2016-10-01,729375.0,A,4,2016,0.0,771970.0,15110.0,30290.0,696245.0,847695.0,-1.4062396830637174,Normal
+469,Canada,Information and cultural industries [51],Payroll employees,Number,2016-10-01,355155.0,A,4,2016,0.0,356830.0,1425.0,2220.0,351280.0,362380.0,-0.7545045045045045,Normal
+472,Canada,Finance and insurance [52],Payroll employees,Number,2016-10-01,724205.0,A,4,2016,0.0,754325.0,12780.0,28290.0,683600.0,825050.0,-1.0646871686108166,Normal
+475,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2016-10-01,292390.0,A,4,2016,0.0,292390.0,2090.0,2375.0,286452.5,298327.5,0.0,Normal
+478,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2016-10-01,870645.0,A,4,2016,0.0,988985.0,28995.0,98640.0,742385.0,1235585.0,-1.1997161394971614,Normal
+481,Canada,Management of companies and enterprises [55],Payroll employees,Number,2016-10-01,96720.0,B,4,2016,0.0,115130.0,1045.0,7890.0,95405.0,134855.0,-2.3333333333333335,Normal
+484,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2016-10-01,796720.0,A,4,2016,0.0,819260.0,7425.0,16585.0,777797.5,860722.5,-1.3590593910159783,Normal
+487,Canada,Educational services [61],Payroll employees,Number,2016-10-01,1256155.0,A,4,2016,0.0,1356710.0,39360.0,57645.0,1212597.5,1500822.5,-1.7443837279902854,Normal
+490,Canada,Health care and social assistance [62],Payroll employees,Number,2016-10-01,1925660.0,A,4,2016,0.0,2091775.0,62855.0,125755.0,1777387.5,2406162.5,-1.32094151325991,Normal
+493,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2016-10-01,288690.0,A,4,2016,0.0,296585.0,9135.0,16100.0,256335.0,336835.0,-0.4903726708074534,Normal
+496,Canada,Accommodation and food services [72],Payroll employees,Number,2016-10-01,1278305.0,A,4,2016,0.0,1296600.0,20345.0,18295.0,1250862.5,1342337.5,-1.0,Normal
+499,Canada,Other services (except public administration) [81],Payroll employees,Number,2016-10-01,536410.0,A,4,2016,0.0,547240.0,8130.0,10830.0,520165.0,574315.0,-1.0,Normal
+502,Canada,Public administration [91],Payroll employees,Number,2016-10-01,497515.0,A,4,2016,0.0,515915.0,12550.0,16260.0,475265.0,556565.0,-1.1316113161131611,Normal
+505,Canada,"Total, all industries",Payroll employees,Number,2017-01-01,15438360.0,A,1,2017,236350.0,16233475.0,226257.5,791880.0,14253775.0,18213175.0,-1.0040852149315553,Normal
+508,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2017-01-01,214925.0,A,1,2017,4445.0,234950.0,2467.5,6447.5,218831.25,251068.75,-3.1058549825513766,Normal
+511,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2017-01-01,192445.0,A,1,2017,-3800.0,200472.5,772.5,6127.5,185153.75,215791.25,-1.310077519379845,Normal
+514,Canada,Utilities [22],Payroll employees,Number,2017-01-01,119175.0,A,1,2017,2705.0,127075.0,2545.0,4465.0,115912.5,138237.5,-1.769316909294513,Normal
+517,Canada,Construction [23],Payroll employees,Number,2017-01-01,984305.0,A,1,2017,17420.0,1043335.0,16180.0,61010.0,890810.0,1195860.0,-0.967546303884609,Normal
+520,Canada,Manufacturing [31-33],Payroll employees,Number,2017-01-01,1494075.0,A,1,2017,10870.0,1551620.0,7507.5,15417.5,1513076.25,1590163.75,-3.7324468947624454,Normal
+523,Canada,Wholesale trade [41],Payroll employees,Number,2017-01-01,775780.0,A,1,2017,-4190.0,812322.5,4540.0,11230.0,784247.5,840397.5,-3.254007123775601,Normal
+526,Canada,Retail trade [44-45],Payroll employees,Number,2017-01-01,1959495.0,A,1,2017,13190.0,1992642.5,1065.0,22745.0,1935780.0,2049505.0,-1.4573532644537261,Normal
+529,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2017-01-01,731035.0,A,1,2017,8500.0,777977.5,12892.5,39902.5,678221.25,877733.75,-1.1764300482425913,Normal
+532,Canada,Information and cultural industries [51],Payroll employees,Number,2017-01-01,362245.0,A,1,2017,11670.0,358825.0,-1115.0,6577.5,342381.25,375268.75,0.5199543899657925,Normal
+535,Canada,Finance and insurance [52],Payroll employees,Number,2017-01-01,722555.0,A,1,2017,3080.0,747847.5,9717.5,26832.5,680766.25,814928.75,-0.9426069132581757,Normal
+538,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2017-01-01,293210.0,A,1,2017,-2710.0,292810.0,1387.5,2160.0,287410.0,298210.0,0.18518518518518517,Normal
+541,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2017-01-01,877835.0,A,1,2017,21190.0,991570.0,25527.5,119185.0,693607.5,1289532.5,-0.9542727692243151,Normal
+544,Canada,Management of companies and enterprises [55],Payroll employees,Number,2017-01-01,96875.0,B,1,2017,-1885.0,114257.5,1797.5,8630.0,92682.5,135832.5,-2.014194669756663,Normal
+547,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2017-01-01,801525.0,A,1,2017,16045.0,819570.0,8152.5,17922.5,774763.75,864376.25,-1.0068349839587112,Normal
+550,Canada,Educational services [61],Payroll employees,Number,2017-01-01,1263295.0,A,1,2017,18605.0,1351105.0,31960.0,61657.5,1196961.25,1505248.75,-1.4241576450553461,Normal
+553,Canada,Health care and social assistance [62],Payroll employees,Number,2017-01-01,1931555.0,A,1,2017,61000.0,2105047.5,59932.5,138162.5,1759641.25,2450453.75,-1.2557133809825387,Normal
+556,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2017-01-01,291465.0,A,1,2017,13990.0,300275.0,9102.5,14527.5,263956.25,336593.75,-0.6064360695233179,Normal
+559,Canada,Accommodation and food services [72],Payroll employees,Number,2017-01-01,1285775.0,A,1,2017,32810.0,1296117.5,16772.5,31842.5,1216511.25,1375723.75,-0.32480175865588445,Normal
+562,Canada,Other services (except public administration) [81],Payroll employees,Number,2017-01-01,539680.0,A,1,2017,-950.0,548865.0,1970.0,8710.0,527090.0,570640.0,-1.0545350172215844,Normal
+565,Canada,Public administration [91],Payroll employees,Number,2017-01-01,501110.0,A,1,2017,14365.0,516762.5,12777.5,19030.0,469187.5,564337.5,-0.8225170782974252,Normal
+568,Canada,"Total, all industries",Payroll employees,Number,2017-04-01,15487695.0,A,2,2017,242115.0,16215525.0,242115.0,792955.0,14233137.5,18197912.5,-0.9178704970647766,Normal
+571,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2017-04-01,214595.0,A,2,2017,3460.0,238605.0,3460.0,6395.0,222617.5,254592.5,-3.754495699765442,Normal
+574,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2017-04-01,198035.0,A,2,2017,8545.0,201650.0,3615.0,10595.0,175162.5,228137.5,-0.3411986786219915,Normal
+577,Canada,Utilities [22],Payroll employees,Number,2017-04-01,119230.0,A,2,2017,1350.0,127485.0,3390.0,4560.0,116085.0,138885.0,-1.8103070175438596,Normal
+580,Canada,Construction [23],Payroll employees,Number,2017-04-01,986280.0,A,2,2017,17790.0,1053595.0,19370.0,68660.0,881945.0,1225245.0,-0.9804107194873288,Normal
+583,Canada,Manufacturing [31-33],Payroll employees,Number,2017-04-01,1500865.0,A,2,2017,21040.0,1550885.0,7805.0,13385.0,1517422.5,1584347.5,-3.7370190511766905,Normal
+586,Canada,Wholesale trade [41],Payroll employees,Number,2017-04-01,774400.0,A,2,2017,-3215.0,809120.0,1045.0,13585.0,775157.5,843082.5,-2.55576002944424,Normal
+589,Canada,Retail trade [44-45],Payroll employees,Number,2017-04-01,1950400.0,A,2,2017,985.0,1980185.0,985.0,29785.0,1905722.5,2054647.5,-1.0,Normal
+592,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2017-04-01,734375.0,A,2,2017,8810.0,776305.0,8815.0,41930.0,671480.0,881130.0,-1.0,Normal
+595,Canada,Information and cultural industries [51],Payroll employees,Number,2017-04-01,363350.0,A,2,2017,13860.0,359060.0,-5185.0,9570.0,335135.0,382985.0,0.4482758620689655,Normal
+598,Canada,Finance and insurance [52],Payroll employees,Number,2017-04-01,724145.0,A,2,2017,3235.0,754175.0,8095.0,33265.0,671012.5,837337.5,-0.9027506388095596,Normal
+601,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2017-04-01,293220.0,A,2,2017,475.0,293220.0,1045.0,1045.0,290607.5,295832.5,0.0,Normal
+604,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2017-04-01,885370.0,A,2,2017,27795.0,1023140.0,36355.0,137770.0,678715.0,1367565.0,-1.0,Normal
+607,Canada,Management of companies and enterprises [55],Payroll employees,Number,2017-04-01,96840.0,B,2,2017,-750.0,115700.0,1735.0,8175.0,95262.5,136137.5,-2.307033639143731,Normal
+610,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2017-04-01,807135.0,A,2,2017,19070.0,824235.0,5455.0,12070.0,794060.0,854410.0,-1.4167357083678542,Normal
+613,Canada,Educational services [61],Payroll employees,Number,2017-04-01,1270410.0,A,2,2017,17855.0,1347305.0,36600.0,76895.0,1155067.5,1539542.5,-1.0,Normal
+616,Canada,Health care and social assistance [62],Payroll employees,Number,2017-04-01,1939710.0,A,2,2017,45065.0,2142450.0,62430.0,146570.0,1776025.0,2508875.0,-1.383229856041482,Normal
+619,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2017-04-01,291890.0,A,2,2017,10680.0,299630.0,8495.0,16965.0,257217.5,342042.5,-0.4562334217506631,Normal
+622,Canada,Accommodation and food services [72],Payroll employees,Number,2017-04-01,1295590.0,A,2,2017,33350.0,1295590.0,19975.0,25920.0,1230790.0,1360390.0,0.0,Normal
+625,Canada,Other services (except public administration) [81],Payroll employees,Number,2017-04-01,539630.0,A,2,2017,1580.0,547500.0,7870.0,12245.0,516887.5,578112.5,-0.6427113107390772,Normal
+628,Canada,Public administration [91],Payroll employees,Number,2017-04-01,502220.0,A,2,2017,11125.0,517650.0,11125.0,26555.0,451262.5,584037.5,-0.5810581811334965,Normal
+631,Canada,"Total, all industries",Payroll employees,Number,2017-07-01,15627950.0,A,3,2017,334705.0,16115117.5,314250.0,561012.5,14712586.25,17517648.75,-0.8683719168467726,Normal
+634,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2017-07-01,217410.0,A,3,2017,5775.0,234845.0,3275.0,6605.0,218332.5,251357.5,-2.639666919000757,Normal
+637,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2017-07-01,200890.0,A,3,2017,13055.0,201995.0,2437.5,7967.5,182076.25,221913.75,-0.13868842171320991,Normal
+640,Canada,Utilities [22],Payroll employees,Number,2017-07-01,119775.0,A,3,2017,550.0,126665.0,1500.0,4862.5,114508.75,138821.25,-1.4169665809768637,Normal
+643,Canada,Construction [23],Payroll employees,Number,2017-07-01,1004430.0,A,3,2017,34335.0,1052787.5,19900.0,62135.0,897450.0,1208125.0,-0.778265067997103,Normal
+646,Canada,Manufacturing [31-33],Payroll employees,Number,2017-07-01,1516435.0,A,3,2017,35415.0,1554265.0,24422.5,24422.5,1493208.75,1615321.25,-1.5489814720032757,Normal
+649,Canada,Wholesale trade [41],Payroll employees,Number,2017-07-01,784725.0,A,3,2017,7200.0,810057.5,7955.0,13412.5,776526.25,843588.75,-1.8887232059645853,Normal
+652,Canada,Retail trade [44-45],Payroll employees,Number,2017-07-01,1976305.0,A,3,2017,28180.0,1985932.5,2612.5,18305.0,1940170.0,2031695.0,-0.5259491942092325,Normal
+655,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2017-07-01,741630.0,A,3,2017,14120.0,775547.5,16682.5,33587.5,691578.75,859516.25,-1.009825083736509,Normal
+658,Canada,Information and cultural industries [51],Payroll employees,Number,2017-07-01,360535.0,A,3,2017,7840.0,358352.5,-1265.0,2970.0,350927.5,365777.5,0.7348484848484849,Normal
+661,Canada,Finance and insurance [52],Payroll employees,Number,2017-07-01,724810.0,A,3,2017,5865.0,757807.5,14242.5,35930.0,667982.5,847632.5,-0.9183829668800445,Normal
+664,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2017-07-01,296165.0,A,3,2017,3415.0,292767.5,2830.0,2420.0,286717.5,298817.5,1.4039256198347108,Normal
+667,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2017-07-01,893465.0,A,3,2017,31355.0,1017830.0,42847.5,139642.5,668723.75,1366936.25,-0.890595628121811,Normal
+670,Canada,Management of companies and enterprises [55],Payroll employees,Number,2017-07-01,96355.0,B,3,2017,-920.0,114432.5,3080.0,9467.5,90763.75,138101.25,-1.9094269870609981,Normal
+673,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2017-07-01,811360.0,A,3,2017,19205.0,819757.5,6225.0,13692.5,785526.25,853988.75,-0.6132919481467957,Normal
+676,Canada,Educational services [61],Payroll employees,Number,2017-07-01,1278795.0,A,3,2017,23760.0,1344865.0,37962.5,57400.0,1201365.0,1488365.0,-1.1510452961672475,Normal
+679,Canada,Health care and social assistance [62],Payroll employees,Number,2017-07-01,1953570.0,A,3,2017,40245.0,2122607.5,62685.0,139980.0,1772657.5,2472557.5,-1.2075832261751678,Normal
+682,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2017-07-01,294650.0,A,3,2017,10740.0,298092.5,8637.5,14007.5,263073.75,333111.25,-0.24576119935748705,Normal
+685,Canada,Accommodation and food services [72],Payroll employees,Number,2017-07-01,1306015.0,A,3,2017,34950.0,1301892.5,19617.5,24792.5,1239911.25,1363873.75,0.16628012503781386,Normal
+688,Canada,Other services (except public administration) [81],Payroll employees,Number,2017-07-01,543255.0,A,3,2017,6625.0,546332.5,7852.5,10930.0,519007.5,573657.5,-0.2815645013723696,Normal
+691,Canada,Public administration [91],Payroll employees,Number,2017-07-01,507380.0,A,3,2017,13015.0,515717.5,12580.0,13042.5,483111.25,548323.75,-0.6392562775541499,Normal
+694,Canada,"Total, all industries",Payroll employees,Number,2017-10-01,15686715.0,A,4,2017,324530.0,16153080.0,314375.0,750850.0,14275955.0,18030205.0,-0.6211160684557502,Normal
+697,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2017-10-01,217885.0,A,4,2017,5770.0,233705.0,4565.0,7100.0,215955.0,251455.0,-2.228169014084507,Normal
+700,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2017-10-01,205100.0,A,4,2017,18365.0,201695.0,4810.0,6715.0,184907.5,218482.5,0.5070737155621743,Normal
+703,Canada,Utilities [22],Payroll employees,Number,2017-10-01,121595.0,A,4,2017,2135.0,126590.0,2135.0,4465.0,115427.5,137752.5,-1.1187010078387458,Normal
+706,Canada,Construction [23],Payroll employees,Number,2017-10-01,1009440.0,A,4,2017,37015.0,1050165.0,29735.0,40725.0,948352.5,1151977.5,-1.0,Normal
+709,Canada,Manufacturing [31-33],Payroll employees,Number,2017-10-01,1525485.0,A,4,2017,37690.0,1560885.0,19530.0,21860.0,1506235.0,1615535.0,-1.6193961573650504,Normal
+712,Canada,Wholesale trade [41],Payroll employees,Number,2017-10-01,785450.0,A,4,2017,10200.0,812170.0,10200.0,12550.0,780795.0,843545.0,-2.1290836653386456,Normal
+715,Canada,Retail trade [44-45],Payroll employees,Number,2017-10-01,1975530.0,A,4,2017,15070.0,1987880.0,7065.0,12350.0,1957005.0,2018755.0,-1.0,Normal
+718,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2017-10-01,741680.0,A,4,2017,12305.0,771970.0,15110.0,30290.0,696245.0,847695.0,-1.0,Normal
+721,Canada,Information and cultural industries [51],Payroll employees,Number,2017-10-01,359050.0,A,4,2017,3895.0,356830.0,1425.0,2220.0,351280.0,362380.0,1.0,Normal
+724,Canada,Finance and insurance [52],Payroll employees,Number,2017-10-01,726035.0,A,4,2017,1830.0,754325.0,12780.0,28290.0,683600.0,825050.0,-1.0,Normal
+727,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2017-10-01,296800.0,A,4,2017,4410.0,292390.0,2090.0,2375.0,286452.5,298327.5,1.8568421052631578,Normal
+730,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2017-10-01,899640.0,A,4,2017,28995.0,988985.0,28995.0,98640.0,742385.0,1235585.0,-0.9057684509326845,Normal
+733,Canada,Management of companies and enterprises [55],Payroll employees,Number,2017-10-01,96660.0,B,4,2017,-60.0,115130.0,1045.0,7890.0,95405.0,134855.0,-2.340937896070976,Normal
+736,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2017-10-01,804145.0,A,4,2017,7425.0,819260.0,7425.0,16585.0,777797.5,860722.5,-0.9113656918902623,Normal
+739,Canada,Educational services [61],Payroll employees,Number,2017-10-01,1295515.0,A,4,2017,39360.0,1356710.0,39360.0,57645.0,1212597.5,1500822.5,-1.0615838320756354,Normal
+742,Canada,Health care and social assistance [62],Payroll employees,Number,2017-10-01,1966020.0,A,4,2017,40360.0,2091775.0,62855.0,125755.0,1777387.5,2406162.5,-1.0,Normal
+745,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2017-10-01,294275.0,A,4,2017,5585.0,296585.0,9135.0,16100.0,256335.0,336835.0,-0.14347826086956522,Normal
+748,Canada,Accommodation and food services [72],Payroll employees,Number,2017-10-01,1311815.0,A,4,2017,33510.0,1296600.0,20345.0,18295.0,1250862.5,1342337.5,0.8316479912544411,Normal
+751,Canada,Other services (except public administration) [81],Payroll employees,Number,2017-10-01,544540.0,A,4,2017,8130.0,547240.0,8130.0,10830.0,520165.0,574315.0,-0.24930747922437674,Normal
+754,Canada,Public administration [91],Payroll employees,Number,2017-10-01,510065.0,A,4,2017,12550.0,515915.0,12550.0,16260.0,475265.0,556565.0,-0.35977859778597787,Normal
+757,Canada,"Total, all industries",Payroll employees,Number,2018-01-01,15730035.0,A,1,2018,291675.0,16233475.0,226257.5,791880.0,14253775.0,18213175.0,-0.6357528918523009,Normal
+760,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2018-01-01,217360.0,A,1,2018,2435.0,234950.0,2467.5,6447.5,218831.25,251068.75,-2.7281892206281504,Normal
+763,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2018-01-01,203290.0,A,1,2018,10845.0,200472.5,772.5,6127.5,185153.75,215791.25,0.459812321501428,Normal
+766,Canada,Utilities [22],Payroll employees,Number,2018-01-01,122770.0,A,1,2018,3595.0,127075.0,2545.0,4465.0,115912.5,138237.5,-0.9641657334826428,Normal
+769,Canada,Construction [23],Payroll employees,Number,2018-01-01,1006925.0,A,1,2018,22620.0,1043335.0,16180.0,61010.0,890810.0,1195860.0,-0.5967874118996885,Normal
+772,Canada,Manufacturing [31-33],Payroll employees,Number,2018-01-01,1535405.0,A,1,2018,41330.0,1551620.0,7507.5,15417.5,1513076.25,1590163.75,-1.0517269336792605,Normal
+775,Canada,Wholesale trade [41],Payroll employees,Number,2018-01-01,793245.0,A,1,2018,17465.0,812322.5,4540.0,11230.0,784247.5,840397.5,-1.6987978628673197,Normal
+778,Canada,Retail trade [44-45],Payroll employees,Number,2018-01-01,1961625.0,A,1,2018,2130.0,1992642.5,1065.0,22745.0,1935780.0,2049505.0,-1.3637063090789185,Normal
+781,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2018-01-01,745115.0,A,1,2018,14080.0,777977.5,12892.5,39902.5,678221.25,877733.75,-0.8235699517574087,Normal
+784,Canada,Information and cultural industries [51],Payroll employees,Number,2018-01-01,360015.0,A,1,2018,-2230.0,358825.0,-1115.0,6577.5,342381.25,375268.75,0.18091980235651844,Normal
+787,Canada,Finance and insurance [52],Payroll employees,Number,2018-01-01,726385.0,A,1,2018,3830.0,747847.5,9717.5,26832.5,680766.25,814928.75,-0.7998695611664959,Normal
+790,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2018-01-01,294030.0,A,1,2018,820.0,292810.0,1387.5,2160.0,287410.0,298210.0,0.5648148148148148,Normal
+793,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2018-01-01,907700.0,A,1,2018,29865.0,991570.0,25527.5,119185.0,693607.5,1289532.5,-0.7036959348911356,Normal
+796,Canada,Management of companies and enterprises [55],Payroll employees,Number,2018-01-01,98235.0,B,1,2018,1360.0,114257.5,1797.5,8630.0,92682.5,135832.5,-1.8566048667439166,Normal
+799,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2018-01-01,808540.0,A,1,2018,7015.0,819570.0,8152.5,17922.5,774763.75,864376.25,-0.6154275352210908,Normal
+802,Canada,Educational services [61],Payroll employees,Number,2018-01-01,1303870.0,A,1,2018,40575.0,1351105.0,31960.0,61657.5,1196961.25,1505248.75,-0.7660868507480841,Normal
+805,Canada,Health care and social assistance [62],Payroll employees,Number,2018-01-01,1981100.0,A,1,2018,49545.0,2105047.5,59932.5,138162.5,1759641.25,2450453.75,-0.8971139057269519,Normal
+808,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2018-01-01,296515.0,A,1,2018,5050.0,300275.0,9102.5,14527.5,263956.25,336593.75,-0.2588194802959904,Normal
+811,Canada,Accommodation and food services [72],Payroll employees,Number,2018-01-01,1316650.0,A,1,2018,30875.0,1296117.5,16772.5,31842.5,1216511.25,1375723.75,0.6448143204836304,Normal
+814,Canada,Other services (except public administration) [81],Payroll employees,Number,2018-01-01,543160.0,A,1,2018,3480.0,548865.0,1970.0,8710.0,527090.0,570640.0,-0.6549942594718714,Normal
+817,Canada,Public administration [91],Payroll employees,Number,2018-01-01,508105.0,A,1,2018,6995.0,516762.5,12777.5,19030.0,469187.5,564337.5,-0.4549395691014188,Normal
+820,Canada,"Total, all industries",Payroll employees,Number,2018-04-01,15835340.0,A,2,2018,347645.0,16215525.0,242115.0,792955.0,14233137.5,18197912.5,-0.4794534368280672,Normal
+823,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2018-04-01,219875.0,A,2,2018,5280.0,238605.0,3460.0,6395.0,222617.5,254592.5,-2.9288506645817045,Normal
+826,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2018-04-01,201650.0,A,2,2018,3615.0,201650.0,3615.0,10595.0,175162.5,228137.5,0.0,Normal
+829,Canada,Utilities [22],Payroll employees,Number,2018-04-01,123915.0,A,2,2018,4685.0,127485.0,3390.0,4560.0,116085.0,138885.0,-0.7828947368421053,Normal
+832,Canada,Construction [23],Payroll employees,Number,2018-04-01,1014710.0,A,2,2018,28430.0,1053595.0,19370.0,68660.0,881945.0,1225245.0,-0.566341392368191,Normal
+835,Canada,Manufacturing [31-33],Payroll employees,Number,2018-04-01,1549265.0,A,2,2018,48400.0,1550885.0,7805.0,13385.0,1517422.5,1584347.5,-0.12103100485618229,Normal
+838,Canada,Wholesale trade [41],Payroll employees,Number,2018-04-01,802210.0,A,2,2018,27810.0,809120.0,1045.0,13585.0,775157.5,843082.5,-0.5086492454913507,Normal
+841,Canada,Retail trade [44-45],Payroll employees,Number,2018-04-01,1966675.0,A,2,2018,16275.0,1980185.0,985.0,29785.0,1905722.5,2054647.5,-0.4535840188014101,Normal
+844,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2018-04-01,751980.0,A,2,2018,17605.0,776305.0,8815.0,41930.0,671480.0,881130.0,-0.5801335559265443,Normal
+847,Canada,Information and cultural industries [51],Payroll employees,Number,2018-04-01,359060.0,A,2,2018,-4290.0,359060.0,-5185.0,9570.0,335135.0,382985.0,0.0,Normal
+850,Canada,Finance and insurance [52],Payroll employees,Number,2018-04-01,729920.0,A,2,2018,5775.0,754175.0,8095.0,33265.0,671012.5,837337.5,-0.7291447467307981,Normal
+853,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2018-04-01,294265.0,A,2,2018,1045.0,293220.0,1045.0,1045.0,290607.5,295832.5,1.0,Normal
+856,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2018-04-01,925935.0,A,2,2018,40565.0,1023140.0,36355.0,137770.0,678715.0,1367565.0,-0.7055599912898308,Normal
+859,Canada,Management of companies and enterprises [55],Payroll employees,Number,2018-04-01,99895.0,B,2,2018,3055.0,115700.0,1735.0,8175.0,95262.5,136137.5,-1.9333333333333333,Normal
+862,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2018-04-01,812590.0,A,2,2018,5455.0,824235.0,5455.0,12070.0,794060.0,854410.0,-0.9647887323943662,Normal
+865,Canada,Educational services [61],Payroll employees,Number,2018-04-01,1309820.0,A,2,2018,39410.0,1347305.0,36600.0,76895.0,1155067.5,1539542.5,-0.48748293126991354,Normal
+868,Canada,Health care and social assistance [62],Payroll employees,Number,2018-04-01,1995880.0,A,2,2018,56170.0,2142450.0,62430.0,146570.0,1776025.0,2508875.0,-1.0,Normal
+871,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2018-04-01,299630.0,A,2,2018,7740.0,299630.0,8495.0,16965.0,257217.5,342042.5,0.0,Normal
+874,Canada,Accommodation and food services [72],Payroll employees,Number,2018-04-01,1321510.0,A,2,2018,25920.0,1295590.0,19975.0,25920.0,1230790.0,1360390.0,1.0,Normal
+877,Canada,Other services (except public administration) [81],Payroll employees,Number,2018-04-01,547500.0,A,2,2018,7870.0,547500.0,7870.0,12245.0,516887.5,578112.5,0.0,Normal
+880,Canada,Public administration [91],Payroll employees,Number,2018-04-01,509050.0,A,2,2018,6830.0,517650.0,11125.0,26555.0,451262.5,584037.5,-0.323856147618151,Normal
+883,Canada,"Total, all industries",Payroll employees,Number,2018-07-01,15921745.0,A,3,2018,293795.0,16115117.5,314250.0,561012.5,14712586.25,17517648.75,-0.34468483322564114,Normal
+886,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2018-07-01,221650.0,A,3,2018,4240.0,234845.0,3275.0,6605.0,218332.5,251357.5,-1.9977289931869795,Normal
+889,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2018-07-01,203100.0,A,3,2018,2210.0,201995.0,2437.5,7967.5,182076.25,221913.75,0.13868842171320991,Normal
+892,Canada,Utilities [22],Payroll employees,Number,2018-07-01,125460.0,A,3,2018,5685.0,126665.0,1500.0,4862.5,114508.75,138821.25,-0.24781491002570694,Normal
+895,Canada,Construction [23],Payroll employees,Number,2018-07-01,1024500.0,A,3,2018,20070.0,1052787.5,19900.0,62135.0,897450.0,1208125.0,-0.4552587108714895,Normal
+898,Canada,Manufacturing [31-33],Payroll employees,Number,2018-07-01,1553805.0,A,3,2018,37370.0,1554265.0,24422.5,24422.5,1493208.75,1615321.25,-0.018835090592691166,Normal
+901,Canada,Wholesale trade [41],Payroll employees,Number,2018-07-01,804635.0,A,3,2018,19910.0,810057.5,7955.0,13412.5,776526.25,843588.75,-0.40428704566635604,Normal
+904,Canada,Retail trade [44-45],Payroll employees,Number,2018-07-01,1974500.0,A,3,2018,-1805.0,1985932.5,2612.5,18305.0,1940170.0,2031695.0,-0.6245561322043157,Normal
+907,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2018-07-01,760875.0,A,3,2018,19245.0,775547.5,16682.5,33587.5,691578.75,859516.25,-0.43684406401190917,Normal
+910,Canada,Information and cultural industries [51],Payroll employees,Number,2018-07-01,355155.0,A,3,2018,-5380.0,358352.5,-1265.0,2970.0,350927.5,365777.5,-1.0765993265993266,Normal
+913,Canada,Finance and insurance [52],Payroll employees,Number,2018-07-01,736015.0,A,3,2018,11205.0,757807.5,14242.5,35930.0,667982.5,847632.5,-0.6065265794600613,Normal
+916,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2018-07-01,292785.0,A,3,2018,-3380.0,292767.5,2830.0,2420.0,286717.5,298817.5,0.007231404958677686,Normal
+919,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2018-07-01,933985.0,A,3,2018,40520.0,1017830.0,42847.5,139642.5,668723.75,1366936.25,-0.600426088046261,Normal
+922,Canada,Management of companies and enterprises [55],Payroll employees,Number,2018-07-01,102005.0,B,3,2018,5650.0,114432.5,3080.0,9467.5,90763.75,138101.25,-1.3126485344599947,Normal
+925,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2018-07-01,819050.0,A,3,2018,7690.0,819757.5,6225.0,13692.5,785526.25,853988.75,-0.051670622603615116,Normal
+928,Canada,Educational services [61],Payroll employees,Number,2018-07-01,1321300.0,A,3,2018,42505.0,1344865.0,37962.5,57400.0,1201365.0,1488365.0,-0.41054006968641116,Normal
+931,Canada,Health care and social assistance [62],Payroll employees,Number,2018-07-01,2011685.0,A,3,2018,58115.0,2122607.5,62685.0,139980.0,1772657.5,2472557.5,-0.7924167738248321,Normal
+934,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2018-07-01,301535.0,A,3,2018,6885.0,298092.5,8637.5,14007.5,263073.75,333111.25,0.24576119935748705,Normal
+937,Canada,Accommodation and food services [72],Payroll employees,Number,2018-07-01,1320650.0,A,3,2018,14635.0,1301892.5,19617.5,24792.5,1239911.25,1363873.75,0.756579610769386,Normal
+940,Canada,Other services (except public administration) [81],Payroll employees,Number,2018-07-01,549410.0,A,3,2018,6155.0,546332.5,7852.5,10930.0,519007.5,573657.5,0.2815645013723696,Normal
+943,Canada,Public administration [91],Payroll employees,Number,2018-07-01,509645.0,A,3,2018,2265.0,515717.5,12580.0,13042.5,483111.25,548323.75,-0.46559325282729536,Normal
+946,Canada,"Total, all industries",Payroll employees,Number,2018-10-01,16051725.0,A,4,2018,365010.0,16153080.0,314375.0,750850.0,14275955.0,18030205.0,-0.13498701471665445,Normal
+949,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2018-10-01,224655.0,A,4,2018,6770.0,233705.0,4565.0,7100.0,215955.0,251455.0,-1.2746478873239437,Normal
+952,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2018-10-01,201695.0,A,4,2018,-3405.0,201695.0,4810.0,6715.0,184907.5,218482.5,0.0,Normal
+955,Canada,Utilities [22],Payroll employees,Number,2018-10-01,125790.0,A,4,2018,4195.0,126590.0,2135.0,4465.0,115427.5,137752.5,-0.1791713325867861,Normal
+958,Canada,Construction [23],Payroll employees,Number,2018-10-01,1039175.0,A,4,2018,29735.0,1050165.0,29735.0,40725.0,948352.5,1151977.5,-0.26985880908532844,Normal
+961,Canada,Manufacturing [31-33],Payroll employees,Number,2018-10-01,1563215.0,A,4,2018,37730.0,1560885.0,19530.0,21860.0,1506235.0,1615535.0,0.10658737419945105,Normal
+964,Canada,Wholesale trade [41],Payroll employees,Number,2018-10-01,812170.0,A,4,2018,26720.0,812170.0,10200.0,12550.0,780795.0,843545.0,0.0,Normal
+967,Canada,Retail trade [44-45],Payroll employees,Number,2018-10-01,1987880.0,A,4,2018,12350.0,1987880.0,7065.0,12350.0,1957005.0,2018755.0,0.0,Normal
+970,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2018-10-01,771530.0,A,4,2018,29850.0,771970.0,15110.0,30290.0,696245.0,847695.0,-0.014526246285902938,Normal
+973,Canada,Information and cultural industries [51],Payroll employees,Number,2018-10-01,353425.0,A,4,2018,-5625.0,356830.0,1425.0,2220.0,351280.0,362380.0,-1.5337837837837838,Normal
+976,Canada,Finance and insurance [52],Payroll employees,Number,2018-10-01,738815.0,A,4,2018,12780.0,754325.0,12780.0,28290.0,683600.0,825050.0,-0.5482502651113468,Normal
+979,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2018-10-01,294765.0,A,4,2018,-2035.0,292390.0,2090.0,2375.0,286452.5,298327.5,1.0,Normal
+982,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2018-10-01,941950.0,A,4,2018,42310.0,988985.0,28995.0,98640.0,742385.0,1235585.0,-0.4768349553933496,Normal
+985,Canada,Management of companies and enterprises [55],Payroll employees,Number,2018-10-01,104995.0,B,4,2018,8335.0,115130.0,1045.0,7890.0,95405.0,134855.0,-1.2845373891001268,Normal
+988,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2018-10-01,833365.0,A,4,2018,29220.0,819260.0,7425.0,16585.0,777797.5,860722.5,0.8504672897196262,Normal
+991,Canada,Educational services [61],Payroll employees,Number,2018-10-01,1328400.0,A,4,2018,32885.0,1356710.0,39360.0,57645.0,1212597.5,1500822.5,-0.491109376355278,Normal
+994,Canada,Health care and social assistance [62],Payroll employees,Number,2018-10-01,2033705.0,A,4,2018,67685.0,2091775.0,62855.0,125755.0,1777387.5,2406162.5,-0.46177090374140195,Normal
+997,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2018-10-01,303410.0,A,4,2018,9135.0,296585.0,9135.0,16100.0,256335.0,336835.0,0.42391304347826086,Normal
+1000,Canada,Accommodation and food services [72],Payroll employees,Number,2018-10-01,1328195.0,A,4,2018,16380.0,1296600.0,20345.0,18295.0,1250862.5,1342337.5,1.726974583219459,Normal
+1003,Canada,Other services (except public administration) [81],Payroll employees,Number,2018-10-01,553105.0,A,4,2018,8565.0,547240.0,8130.0,10830.0,520165.0,574315.0,0.5415512465373962,Normal
+1006,Canada,Public administration [91],Payroll employees,Number,2018-10-01,511485.0,A,4,2018,1420.0,515915.0,12550.0,16260.0,475265.0,556565.0,-0.27244772447724475,Normal
+1009,Canada,"Total, all industries",Payroll employees,Number,2019-01-01,16149010.0,A,1,2019,418975.0,16233475.0,226257.5,791880.0,14253775.0,18213175.0,-0.10666388846794969,Normal
+1012,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2019-01-01,227120.0,A,1,2019,9760.0,234950.0,2467.5,6447.5,218831.25,251068.75,-1.2144241954245831,Normal
+1015,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2019-01-01,200350.0,A,1,2019,-2940.0,200472.5,772.5,6127.5,185153.75,215791.25,-0.019991840065279477,Normal
+1018,Canada,Utilities [22],Payroll employees,Number,2019-01-01,126330.0,A,1,2019,3560.0,127075.0,2545.0,4465.0,115912.5,138237.5,-0.16685330347144456,Normal
+1021,Canada,Construction [23],Payroll employees,Number,2019-01-01,1037775.0,A,1,2019,30850.0,1043335.0,16180.0,61010.0,890810.0,1195860.0,-0.09113260121291591,Normal
+1024,Canada,Manufacturing [31-33],Payroll employees,Number,2019-01-01,1579010.0,A,1,2019,43605.0,1551620.0,7507.5,15417.5,1513076.25,1590163.75,1.7765526187773635,Normal
+1027,Canada,Wholesale trade [41],Payroll employees,Number,2019-01-01,819425.0,A,1,2019,26180.0,812322.5,4540.0,11230.0,784247.5,840397.5,0.6324577025823687,Normal
+1030,Canada,Retail trade [44-45],Payroll employees,Number,2019-01-01,2002510.0,A,1,2019,40885.0,1992642.5,1065.0,22745.0,1935780.0,2049505.0,0.43383161134315235,Normal
+1033,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2019-01-01,771520.0,A,1,2019,26405.0,777977.5,12892.5,39902.5,678221.25,877733.75,-0.16183196541570077,Normal
+1036,Canada,Information and cultural industries [51],Payroll employees,Number,2019-01-01,351630.0,A,1,2019,-8385.0,358825.0,-1115.0,6577.5,342381.25,375268.75,-1.0938806537438237,Normal
+1039,Canada,Finance and insurance [52],Payroll employees,Number,2019-01-01,740995.0,A,1,2019,14610.0,747847.5,9717.5,26832.5,680766.25,814928.75,-0.25538060188204603,Normal
+1042,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2019-01-01,296980.0,A,1,2019,2950.0,292810.0,1387.5,2160.0,287410.0,298210.0,1.9305555555555556,Normal
+1045,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2019-01-01,952915.0,A,1,2019,45215.0,991570.0,25527.5,119185.0,693607.5,1289532.5,-0.3243277258044217,Normal
+1048,Canada,Management of companies and enterprises [55],Payroll employees,Number,2019-01-01,105855.0,A,1,2019,7620.0,114257.5,1797.5,8630.0,92682.5,135832.5,-0.973638470451912,Normal
+1051,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2019-01-01,837370.0,A,1,2019,28830.0,819570.0,8152.5,17922.5,774763.75,864376.25,0.9931650160412889,Normal
+1054,Canada,Educational services [61],Payroll employees,Number,2019-01-01,1333350.0,A,1,2019,29480.0,1351105.0,31960.0,61657.5,1196961.25,1505248.75,-0.28796172404006,Normal
+1057,Canada,Health care and social assistance [62],Payroll employees,Number,2019-01-01,2047585.0,A,1,2019,66485.0,2105047.5,59932.5,138162.5,1759641.25,2450453.75,-0.4159051841129105,Normal
+1060,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2019-01-01,309160.0,A,1,2019,12645.0,300275.0,9102.5,14527.5,263956.25,336593.75,0.6115986921356049,Normal
+1063,Canada,Accommodation and food services [72],Payroll employees,Number,2019-01-01,1341940.0,A,1,2019,25290.0,1296117.5,16772.5,31842.5,1216511.25,1375723.75,1.4390358797204994,Normal
+1066,Canada,Other services (except public administration) [81],Payroll employees,Number,2019-01-01,554570.0,A,1,2019,11410.0,548865.0,1970.0,8710.0,527090.0,570640.0,0.6549942594718714,Normal
+1069,Canada,Public administration [91],Payroll employees,Number,2019-01-01,512620.0,A,1,2019,4515.0,516762.5,12777.5,19030.0,469187.5,564337.5,-0.21768260641093012,Normal
+1072,Canada,"Total, all industries",Payroll employees,Number,2019-04-01,16215525.0,A,2,2019,380185.0,16215525.0,242115.0,792955.0,14233137.5,18197912.5,0.0,Normal
+1075,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2019-04-01,228810.0,A,2,2019,8935.0,238605.0,3460.0,6395.0,222617.5,254592.5,-1.5316653635652855,Normal
+1078,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2019-04-01,199945.0,A,2,2019,-1705.0,201650.0,3615.0,10595.0,175162.5,228137.5,-0.1609249646059462,Normal
+1081,Canada,Utilities [22],Payroll employees,Number,2019-04-01,127485.0,A,2,2019,3570.0,127485.0,3390.0,4560.0,116085.0,138885.0,0.0,Normal
+1084,Canada,Construction [23],Payroll employees,Number,2019-04-01,1033440.0,A,2,2019,18730.0,1053595.0,19370.0,68660.0,881945.0,1225245.0,-0.2935479172735217,Normal
+1087,Canada,Manufacturing [31-33],Payroll employees,Number,2019-04-01,1583100.0,A,2,2019,33835.0,1550885.0,7805.0,13385.0,1517422.5,1584347.5,2.406798655211057,Unusual
+1090,Canada,Wholesale trade [41],Payroll employees,Number,2019-04-01,821390.0,A,2,2019,19180.0,809120.0,1045.0,13585.0,775157.5,843082.5,0.9032020610967979,Normal
+1093,Canada,Retail trade [44-45],Payroll employees,Number,2019-04-01,2003835.0,A,2,2019,37160.0,1980185.0,985.0,29785.0,1905722.5,2054647.5,0.7940238375020984,Normal
+1096,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2019-04-01,776305.0,A,2,2019,24325.0,776305.0,8815.0,41930.0,671480.0,881130.0,0.0,Normal
+1099,Canada,Information and cultural industries [51],Payroll employees,Number,2019-04-01,353875.0,A,2,2019,-5185.0,359060.0,-5185.0,9570.0,335135.0,382985.0,-0.5417972831765935,Normal
+1102,Canada,Finance and insurance [52],Payroll employees,Number,2019-04-01,746080.0,A,2,2019,16160.0,754175.0,8095.0,33265.0,671012.5,837337.5,-0.2433488651736059,Normal
+1105,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2019-04-01,300085.0,A,2,2019,5820.0,293220.0,1045.0,1045.0,290607.5,295832.5,6.569377990430622,Very Unusual
+1108,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2019-04-01,962290.0,A,2,2019,36355.0,1023140.0,36355.0,137770.0,678715.0,1367565.0,-0.44167815925092546,Normal
+1111,Canada,Management of companies and enterprises [55],Payroll employees,Number,2019-04-01,107525.0,A,2,2019,7630.0,115700.0,1735.0,8175.0,95262.5,136137.5,-1.0,Normal
+1114,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2019-04-01,837515.0,A,2,2019,24925.0,824235.0,5455.0,12070.0,794060.0,854410.0,1.1002485501242751,Normal
+1117,Canada,Educational services [61],Payroll employees,Number,2019-04-01,1347305.0,A,2,2019,37485.0,1347305.0,36600.0,76895.0,1155067.5,1539542.5,0.0,Normal
+1120,Canada,Health care and social assistance [62],Payroll employees,Number,2019-04-01,2058310.0,A,2,2019,62430.0,2142450.0,62430.0,146570.0,1776025.0,2508875.0,-0.5740601760251075,Normal
+1123,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2019-04-01,312440.0,A,2,2019,12810.0,299630.0,8495.0,16965.0,257217.5,342042.5,0.7550839964633068,Normal
+1126,Canada,Accommodation and food services [72],Payroll employees,Number,2019-04-01,1341485.0,A,2,2019,19975.0,1295590.0,19975.0,25920.0,1230790.0,1360390.0,1.7706404320987654,Normal
+1129,Canada,Other services (except public administration) [81],Payroll employees,Number,2019-04-01,556660.0,A,2,2019,9160.0,547500.0,7870.0,12245.0,516887.5,578112.5,0.7480604328297265,Normal
+1132,Canada,Public administration [91],Payroll employees,Number,2019-04-01,517650.0,A,2,2019,8600.0,517650.0,11125.0,26555.0,451262.5,584037.5,0.0,Normal
+1135,Canada,"Total, all industries",Payroll employees,Number,2019-07-01,16308490.0,A,3,2019,386745.0,16115117.5,314250.0,561012.5,14712586.25,17517648.75,0.34468483322564114,Normal
+1138,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2019-07-01,231290.0,A,3,2019,9640.0,234845.0,3275.0,6605.0,218332.5,251357.5,-0.538228614685844,Normal
+1141,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2019-07-01,200610.0,A,3,2019,-2490.0,201995.0,2437.5,7967.5,182076.25,221913.75,-0.17383118920614998,Normal
+1144,Canada,Utilities [22],Payroll employees,Number,2019-07-01,127870.0,A,3,2019,2410.0,126665.0,1500.0,4862.5,114508.75,138821.25,0.24781491002570694,Normal
+1147,Canada,Construction [23],Payroll employees,Number,2019-07-01,1044230.0,A,3,2019,19730.0,1052787.5,19900.0,62135.0,897450.0,1208125.0,-0.1377243099702261,Normal
+1150,Canada,Manufacturing [31-33],Payroll employees,Number,2019-07-01,1586635.0,A,3,2019,32830.0,1554265.0,24422.5,24422.5,1493208.75,1615321.25,1.3254171358378544,Normal
+1153,Canada,Wholesale trade [41],Payroll employees,Number,2019-07-01,822750.0,A,3,2019,18115.0,810057.5,7955.0,13412.5,776526.25,843588.75,0.946318732525629,Normal
+1156,Canada,Retail trade [44-45],Payroll employees,Number,2019-07-01,1998135.0,A,3,2019,23635.0,1985932.5,2612.5,18305.0,1940170.0,2031695.0,0.6666211417645452,Normal
+1159,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2019-07-01,783890.0,A,3,2019,23015.0,775547.5,16682.5,33587.5,691578.75,859516.25,0.24838109415705248,Normal
+1162,Canada,Information and cultural industries [51],Payroll employees,Number,2019-07-01,358140.0,A,3,2019,2985.0,358352.5,-1265.0,2970.0,350927.5,365777.5,-0.07154882154882154,Normal
+1165,Canada,Finance and insurance [52],Payroll employees,Number,2019-07-01,751115.0,A,3,2019,15100.0,757807.5,14242.5,35930.0,667982.5,847632.5,-0.18626495964375173,Normal
+1168,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2019-07-01,298340.0,A,3,2019,5555.0,292767.5,2830.0,2420.0,286717.5,298817.5,2.302685950413223,Unusual
+1171,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2019-07-01,979160.0,A,3,2019,45175.0,1017830.0,42847.5,139642.5,668723.75,1366936.25,-0.27692142435146894,Normal
+1174,Canada,Management of companies and enterprises [55],Payroll employees,Number,2019-07-01,109090.0,A,3,2019,7085.0,114432.5,3080.0,9467.5,90763.75,138101.25,-0.564298917348825,Normal
+1177,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2019-07-01,843510.0,A,3,2019,24460.0,819757.5,6225.0,13692.5,785526.25,853988.75,1.7347087821800256,Normal
+1180,Canada,Educational services [61],Payroll employees,Number,2019-07-01,1359125.0,A,3,2019,37825.0,1344865.0,37962.5,57400.0,1201365.0,1488365.0,0.2484320557491289,Normal
+1183,Canada,Health care and social assistance [62],Payroll employees,Number,2019-07-01,2077145.0,A,3,2019,65460.0,2122607.5,62685.0,139980.0,1772657.5,2472557.5,-0.32477853979139876,Normal
+1186,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2019-07-01,311925.0,A,3,2019,10390.0,298092.5,8637.5,14007.5,263073.75,333111.25,0.9875066928431198,Normal
+1189,Canada,Accommodation and food services [72],Payroll employees,Number,2019-07-01,1345250.0,A,3,2019,24600.0,1301892.5,19617.5,24792.5,1239911.25,1363873.75,1.7488151658767772,Normal
+1192,Canada,Other services (except public administration) [81],Payroll employees,Number,2019-07-01,558490.0,A,3,2019,9080.0,546332.5,7852.5,10930.0,519007.5,573657.5,1.112305580969808,Normal
+1195,Canada,Public administration [91],Payroll employees,Number,2019-07-01,521790.0,A,3,2019,12145.0,515717.5,12580.0,13042.5,483111.25,548323.75,0.46559325282729536,Normal
+1198,Canada,"Total, all industries",Payroll employees,Number,2019-10-01,16366100.0,A,4,2019,314375.0,16153080.0,314375.0,750850.0,14275955.0,18030205.0,0.28370513418126125,Normal
+1201,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2019-10-01,233705.0,A,4,2019,9050.0,233705.0,4565.0,7100.0,215955.0,251455.0,0.0,Normal
+1204,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2019-10-01,201005.0,A,4,2019,-690.0,201695.0,4810.0,6715.0,184907.5,218482.5,-0.10275502606105734,Normal
+1207,Canada,Utilities [22],Payroll employees,Number,2019-10-01,127625.0,A,4,2019,1835.0,126590.0,2135.0,4465.0,115427.5,137752.5,0.23180291153415453,Normal
+1210,Canada,Construction [23],Payroll employees,Number,2019-10-01,1050165.0,A,4,2019,10990.0,1050165.0,29735.0,40725.0,948352.5,1151977.5,0.0,Normal
+1213,Canada,Manufacturing [31-33],Payroll employees,Number,2019-10-01,1582745.0,A,4,2019,19530.0,1560885.0,19530.0,21860.0,1506235.0,1615535.0,1.0,Normal
+1216,Canada,Wholesale trade [41],Payroll employees,Number,2019-10-01,824165.0,A,4,2019,11995.0,812170.0,10200.0,12550.0,780795.0,843545.0,0.9557768924302789,Normal
+1219,Canada,Retail trade [44-45],Payroll employees,Number,2019-10-01,1994945.0,A,4,2019,7065.0,1987880.0,7065.0,12350.0,1957005.0,2018755.0,0.5720647773279353,Normal
+1222,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2019-10-01,794060.0,A,4,2019,22530.0,771970.0,15110.0,30290.0,696245.0,847695.0,0.7292835919445362,Normal
+1225,Canada,Information and cultural industries [51],Payroll employees,Number,2019-10-01,356830.0,A,4,2019,3405.0,356830.0,1425.0,2220.0,351280.0,362380.0,0.0,Normal
+1228,Canada,Finance and insurance [52],Payroll employees,Number,2019-10-01,754325.0,A,4,2019,15510.0,754325.0,12780.0,28290.0,683600.0,825050.0,0.0,Normal
+1231,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2019-10-01,294525.0,A,4,2019,-240.0,292390.0,2090.0,2375.0,286452.5,298327.5,0.8989473684210526,Normal
+1234,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2019-10-01,988985.0,A,4,2019,47035.0,988985.0,28995.0,98640.0,742385.0,1235585.0,0.0,Normal
+1237,Canada,Management of companies and enterprises [55],Payroll employees,Number,2019-10-01,110230.0,C,4,2019,5235.0,115130.0,1045.0,7890.0,95405.0,134855.0,-0.6210392902408112,Normal
+1240,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2019-10-01,852845.0,A,4,2019,19480.0,819260.0,7425.0,16585.0,777797.5,860722.5,2.025022610792885,Unusual
+1243,Canada,Educational services [61],Payroll employees,Number,2019-10-01,1368250.0,A,4,2019,39850.0,1356710.0,39360.0,57645.0,1212597.5,1500822.5,0.20019082314164283,Normal
+1246,Canada,Health care and social assistance [62],Payroll employees,Number,2019-10-01,2091775.0,A,4,2019,58070.0,2091775.0,62855.0,125755.0,1777387.5,2406162.5,0.0,Normal
+1249,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2019-10-01,312685.0,A,4,2019,9275.0,296585.0,9135.0,16100.0,256335.0,336835.0,1.0,Normal
+1252,Canada,Accommodation and food services [72],Payroll employees,Number,2019-10-01,1348540.0,A,4,2019,20345.0,1296600.0,20345.0,18295.0,1250862.5,1342337.5,2.839027056572834,Unusual
+1255,Canada,Other services (except public administration) [81],Payroll employees,Number,2019-10-01,557610.0,A,4,2019,4505.0,547240.0,8130.0,10830.0,520165.0,574315.0,0.9575253924284395,Normal
+1258,Canada,Public administration [91],Payroll employees,Number,2019-10-01,521085.0,A,4,2019,9600.0,515915.0,12550.0,16260.0,475265.0,556565.0,0.31795817958179584,Normal
+1261,Canada,"Total, all industries",Payroll employees,Number,2020-01-01,16365175.0,A,1,2020,216165.0,16233475.0,226257.5,791880.0,14253775.0,18213175.0,0.16631307773905138,Normal
+1264,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2020-01-01,233700.0,A,1,2020,6580.0,234950.0,2467.5,6447.5,218831.25,251068.75,-0.19387359441644048,Normal
+1267,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2020-01-01,200595.0,A,1,2020,245.0,200472.5,772.5,6127.5,185153.75,215791.25,0.019991840065279477,Normal
+1270,Canada,Utilities [22],Payroll employees,Number,2020-01-01,127820.0,A,1,2020,1490.0,127075.0,2545.0,4465.0,115912.5,138237.5,0.16685330347144456,Normal
+1273,Canada,Construction [23],Payroll employees,Number,2020-01-01,1048895.0,A,1,2020,11120.0,1043335.0,16180.0,61010.0,890810.0,1195860.0,0.09113260121291591,Normal
+1276,Canada,Manufacturing [31-33],Payroll employees,Number,2020-01-01,1566240.0,A,1,2020,-12770.0,1551620.0,7507.5,15417.5,1513076.25,1590163.75,0.9482730663207394,Normal
+1279,Canada,Wholesale trade [41],Payroll employees,Number,2020-01-01,823230.0,A,1,2020,3805.0,812322.5,4540.0,11230.0,784247.5,840397.5,0.9712822796081924,Normal
+1282,Canada,Retail trade [44-45],Payroll employees,Number,2020-01-01,2000655.0,A,1,2020,-1855.0,1992642.5,1065.0,22745.0,1935780.0,2049505.0,0.3522752253242471,Normal
+1285,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2020-01-01,792200.0,A,1,2020,20680.0,777977.5,12892.5,39902.5,678221.25,877733.75,0.3564313012969112,Normal
+1288,Canada,Information and cultural industries [51],Payroll employees,Number,2020-01-01,357670.0,A,1,2020,6040.0,358825.0,-1115.0,6577.5,342381.25,375268.75,-0.17559863169897377,Normal
+1291,Canada,Finance and insurance [52],Payroll employees,Number,2020-01-01,754085.0,A,1,2020,13090.0,747847.5,9717.5,26832.5,680766.25,814928.75,0.23246063542346035,Normal
+1294,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2020-01-01,292200.0,A,1,2020,-4780.0,292810.0,1387.5,2160.0,287410.0,298210.0,-0.2824074074074074,Normal
+1297,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2020-01-01,989010.0,A,1,2020,36095.0,991570.0,25527.5,119185.0,693607.5,1289532.5,-0.021479212988211604,Normal
+1300,Canada,Management of companies and enterprises [55],Payroll employees,Number,2020-01-01,112715.0,A,1,2020,6860.0,114257.5,1797.5,8630.0,92682.5,135832.5,-0.1787369640787949,Normal
+1303,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2020-01-01,846660.0,A,1,2020,9290.0,819570.0,8152.5,17922.5,774763.75,864376.25,1.5115078811549727,Normal
+1306,Canada,Educational services [61],Payroll employees,Number,2020-01-01,1368860.0,A,1,2020,35510.0,1351105.0,31960.0,61657.5,1196961.25,1505248.75,0.28796172404006,Normal
+1309,Canada,Health care and social assistance [62],Payroll employees,Number,2020-01-01,2106450.0,A,1,2020,58865.0,2105047.5,59932.5,138162.5,1759641.25,2450453.75,0.01015109020175518,Normal
+1312,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2020-01-01,315165.0,A,1,2020,6005.0,300275.0,9102.5,14527.5,263956.25,336593.75,1.0249526759593874,Normal
+1315,Canada,Accommodation and food services [72],Payroll employees,Number,2020-01-01,1350195.0,A,1,2020,8255.0,1296117.5,16772.5,31842.5,1216511.25,1375723.75,1.698280599827275,Normal
+1318,Canada,Other services (except public administration) [81],Payroll employees,Number,2020-01-01,555030.0,A,1,2020,460.0,548865.0,1970.0,8710.0,527090.0,570640.0,0.7078071182548794,Normal
+1321,Canada,Public administration [91],Payroll employees,Number,2020-01-01,523810.0,A,1,2020,11190.0,516762.5,12777.5,19030.0,469187.5,564337.5,0.37033631108775616,Normal
+1324,Canada,"Total, all industries",Payroll employees,Number,2020-10-01,15238240.0,A,4,2020,-1127860.0,16153080.0,314375.0,750850.0,14275955.0,18030205.0,-1.2184058067523473,Normal
+1327,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2020-10-01,233200.0,A,4,2020,-505.0,233705.0,4565.0,7100.0,215955.0,251455.0,-0.07112676056338028,Normal
+1330,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2020-10-01,187380.0,A,4,2020,-13625.0,201695.0,4810.0,6715.0,184907.5,218482.5,-2.131794489947878,Normal
+1333,Canada,Utilities [22],Payroll employees,Number,2020-10-01,122125.0,A,4,2020,-5500.0,126590.0,2135.0,4465.0,115427.5,137752.5,-1.0,Normal
+1336,Canada,Construction [23],Payroll employees,Number,2020-10-01,1010820.0,A,4,2020,-39345.0,1050165.0,29735.0,40725.0,948352.5,1151977.5,-0.9661141804788214,Normal
+1339,Canada,Manufacturing [31-33],Payroll employees,Number,2020-10-01,1483175.0,A,4,2020,-99570.0,1560885.0,19530.0,21860.0,1506235.0,1615535.0,-3.5548947849954255,Normal
+1342,Canada,Wholesale trade [41],Payroll employees,Number,2020-10-01,777540.0,A,4,2020,-46625.0,812170.0,10200.0,12550.0,780795.0,843545.0,-2.7593625498007968,Normal
+1345,Canada,Retail trade [44-45],Payroll employees,Number,2020-10-01,1913185.0,A,4,2020,-81760.0,1987880.0,7065.0,12350.0,1957005.0,2018755.0,-6.0481781376518216,Normal
+1348,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2020-10-01,756860.0,A,4,2020,-37200.0,771970.0,15110.0,30290.0,696245.0,847695.0,-0.49884450313634865,Normal
+1351,Canada,Information and cultural industries [51],Payroll employees,Number,2020-10-01,343005.0,A,4,2020,-13825.0,356830.0,1425.0,2220.0,351280.0,362380.0,-6.2274774774774775,Normal
+1354,Canada,Finance and insurance [52],Payroll employees,Number,2020-10-01,735665.0,A,4,2020,-18660.0,754325.0,12780.0,28290.0,683600.0,825050.0,-0.6595970307529162,Normal
+1357,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2020-10-01,250570.0,A,4,2020,-43955.0,292390.0,2090.0,2375.0,286452.5,298327.5,-17.608421052631577,Normal
+1360,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2020-10-01,970820.0,A,4,2020,-18165.0,988985.0,28995.0,98640.0,742385.0,1235585.0,-0.184154501216545,Normal
+1363,Canada,Management of companies and enterprises [55],Payroll employees,Number,2020-10-01,115130.0,A,4,2020,4900.0,115130.0,1045.0,7890.0,95405.0,134855.0,0.0,Normal
+1366,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2020-10-01,771475.0,A,4,2020,-81370.0,819260.0,7425.0,16585.0,777797.5,860722.5,-2.881217968043413,Normal
+1369,Canada,Educational services [61],Payroll employees,Number,2020-10-01,1299065.0,A,4,2020,-69185.0,1356710.0,39360.0,57645.0,1212597.5,1500822.5,-1.0,Normal
+1372,Canada,Health care and social assistance [62],Payroll employees,Number,2020-10-01,2069470.0,A,4,2020,-22305.0,2091775.0,62855.0,125755.0,1777387.5,2406162.5,-0.17736869309371397,Normal
+1375,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2020-10-01,218210.0,A,4,2020,-94475.0,296585.0,9135.0,16100.0,256335.0,336835.0,-4.868012422360248,Normal
+1378,Canada,Accommodation and food services [72],Payroll employees,Number,2020-10-01,1001115.0,A,4,2020,-347425.0,1296600.0,20345.0,18295.0,1250862.5,1342337.5,-16.151134189669307,Normal
+1381,Canada,Other services (except public administration) [81],Payroll employees,Number,2020-10-01,489660.0,A,4,2020,-67950.0,547240.0,8130.0,10830.0,520165.0,574315.0,-5.316712834718375,Normal
+1384,Canada,Public administration [91],Payroll employees,Number,2020-10-01,489760.0,A,4,2020,-31325.0,515915.0,12550.0,16260.0,475265.0,556565.0,-1.6085485854858548,Normal
+1387,Canada,"Total, all industries",Payroll employees,Number,2021-01-01,15188690.0,A,1,2021,-1176485.0,16233475.0,226257.5,791880.0,14253775.0,18213175.0,-1.3193728847805224,Normal
+1390,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2021-01-01,236200.0,A,1,2021,2500.0,234950.0,2467.5,6447.5,218831.25,251068.75,0.19387359441644048,Normal
+1393,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2021-01-01,186595.0,A,1,2021,-14000.0,200472.5,772.5,6127.5,185153.75,215791.25,-2.2647898816809464,Normal
+1396,Canada,Utilities [22],Payroll employees,Number,2021-01-01,122450.0,A,1,2021,-5370.0,127075.0,2545.0,4465.0,115912.5,138237.5,-1.0358342665173572,Normal
+1399,Canada,Construction [23],Payroll employees,Number,2021-01-01,1026660.0,A,1,2021,-22235.0,1043335.0,16180.0,61010.0,890810.0,1195860.0,-0.2733158498606786,Normal
+1402,Canada,Manufacturing [31-33],Payroll employees,Number,2021-01-01,1487405.0,A,1,2021,-78835.0,1551620.0,7507.5,15417.5,1513076.25,1590163.75,-4.165072158261715,Normal
+1405,Canada,Wholesale trade [41],Payroll employees,Number,2021-01-01,781845.0,A,1,2021,-41385.0,812322.5,4540.0,11230.0,784247.5,840397.5,-2.7139358860195903,Normal
+1408,Canada,Retail trade [44-45],Payroll employees,Number,2021-01-01,1882740.0,A,1,2021,-117915.0,1992642.5,1065.0,22745.0,1935780.0,2049505.0,-4.831941085952956,Normal
+1411,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2021-01-01,762585.0,A,1,2021,-29615.0,777977.5,12892.5,39902.5,678221.25,877733.75,-0.3857527723826828,Normal
+1414,Canada,Information and cultural industries [51],Payroll employees,Number,2021-01-01,344125.0,A,1,2021,-13545.0,358825.0,-1115.0,6577.5,342381.25,375268.75,-2.234891676168757,Normal
+1417,Canada,Finance and insurance [52],Payroll employees,Number,2021-01-01,741610.0,A,1,2021,-12475.0,747847.5,9717.5,26832.5,680766.25,814928.75,-0.23246063542346035,Normal
+1420,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2021-01-01,253790.0,A,1,2021,-38410.0,292810.0,1387.5,2160.0,287410.0,298210.0,-18.064814814814813,Normal
+1423,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2021-01-01,994130.0,A,1,2021,5120.0,991570.0,25527.5,119185.0,693607.5,1289532.5,0.021479212988211604,Normal
+1426,Canada,Management of companies and enterprises [55],Payroll employees,Number,2021-01-01,115800.0,A,1,2021,3085.0,114257.5,1797.5,8630.0,92682.5,135832.5,0.1787369640787949,Normal
+1429,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2021-01-01,783730.0,A,1,2021,-62930.0,819570.0,8152.5,17922.5,774763.75,864376.25,-1.9997210210629097,Normal
+1432,Canada,Educational services [61],Payroll employees,Number,2021-01-01,1299195.0,A,1,2021,-69665.0,1351105.0,31960.0,61657.5,1196961.25,1505248.75,-0.8419089324088715,Normal
+1435,Canada,Health care and social assistance [62],Payroll employees,Number,2021-01-01,2103645.0,A,1,2021,-2805.0,2105047.5,59932.5,138162.5,1759641.25,2450453.75,-0.01015109020175518,Normal
+1438,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2021-01-01,198835.0,A,1,2021,-116330.0,300275.0,9102.5,14527.5,263956.25,336593.75,-6.982619170538634,Normal
+1441,Canada,Accommodation and food services [72],Payroll employees,Number,2021-01-01,905025.0,A,1,2021,-445170.0,1296117.5,16772.5,31842.5,1216511.25,1375723.75,-12.282091544319698,Normal
+1444,Canada,Other services (except public administration) [81],Payroll employees,Number,2021-01-01,477995.0,A,1,2021,-77035.0,548865.0,1970.0,8710.0,527090.0,570640.0,-8.136624569460391,Normal
+1447,Canada,Public administration [91],Payroll employees,Number,2021-01-01,484345.0,A,1,2021,-39465.0,516762.5,12777.5,19030.0,469187.5,564337.5,-1.7034944823962166,Normal
+1450,Canada,"Total, all industries",Payroll employees,Number,2021-04-01,15422570.0,A,2,2021,-792955.0,16215525.0,242115.0,792955.0,14233137.5,18197912.5,-1.0,Normal
+1453,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2021-04-01,239960.0,A,2,2021,11150.0,238605.0,3460.0,6395.0,222617.5,254592.5,0.21188428459734168,Normal
+1456,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2021-04-01,189065.0,A,2,2021,-10880.0,201650.0,3615.0,10595.0,175162.5,228137.5,-1.1878244454931572,Normal
+1459,Canada,Utilities [22],Payroll employees,Number,2021-04-01,123035.0,A,2,2021,-4450.0,127485.0,3390.0,4560.0,116085.0,138885.0,-0.9758771929824561,Normal
+1462,Canada,Construction [23],Payroll employees,Number,2021-04-01,1053595.0,A,2,2021,20155.0,1053595.0,19370.0,68660.0,881945.0,1225245.0,0.0,Normal
+1465,Canada,Manufacturing [31-33],Payroll employees,Number,2021-04-01,1500395.0,A,2,2021,-82705.0,1550885.0,7805.0,13385.0,1517422.5,1584347.5,-3.7721329846843483,Normal
+1468,Canada,Wholesale trade [41],Payroll employees,Number,2021-04-01,787450.0,A,2,2021,-33940.0,809120.0,1045.0,13585.0,775157.5,843082.5,-1.5951417004048583,Normal
+1471,Canada,Retail trade [44-45],Payroll employees,Number,2021-04-01,1934905.0,A,2,2021,-68930.0,1980185.0,985.0,29785.0,1905722.5,2054647.5,-1.5202283028369985,Normal
+1474,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2021-04-01,763060.0,A,2,2021,-13245.0,776305.0,8815.0,41930.0,671480.0,881130.0,-0.3158836155497257,Normal
+1477,Canada,Information and cultural industries [51],Payroll employees,Number,2021-04-01,348525.0,A,2,2021,-5350.0,359060.0,-5185.0,9570.0,335135.0,382985.0,-1.100835945663532,Normal
+1480,Canada,Finance and insurance [52],Payroll employees,Number,2021-04-01,754175.0,A,2,2021,8095.0,754175.0,8095.0,33265.0,671012.5,837337.5,0.0,Normal
+1483,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2021-04-01,256400.0,A,2,2021,-43685.0,293220.0,1045.0,1045.0,290607.5,295832.5,-35.23444976076555,Normal
+1486,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2021-04-01,1023140.0,A,2,2021,60850.0,1023140.0,36355.0,137770.0,678715.0,1367565.0,0.0,Normal
+1489,Canada,Management of companies and enterprises [55],Payroll employees,Number,2021-04-01,115700.0,A,2,2021,8175.0,115700.0,1735.0,8175.0,95262.5,136137.5,0.0,Normal
+1492,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2021-04-01,791015.0,A,2,2021,-46500.0,824235.0,5455.0,12070.0,794060.0,854410.0,-2.7522783761391882,Normal
+1495,Canada,Educational services [61],Payroll employees,Number,2021-04-01,1309115.0,A,2,2021,-38190.0,1347305.0,36600.0,76895.0,1155067.5,1539542.5,-0.49665127771636647,Normal
+1498,Canada,Health care and social assistance [62],Payroll employees,Number,2021-04-01,2142450.0,A,2,2021,84140.0,2142450.0,62430.0,146570.0,1776025.0,2508875.0,0.0,Normal
+1501,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2021-04-01,196650.0,A,2,2021,-115790.0,299630.0,8495.0,16965.0,257217.5,342042.5,-6.070144414972001,Normal
+1504,Canada,Accommodation and food services [72],Payroll employees,Number,2021-04-01,925470.0,A,2,2021,-416015.0,1295590.0,19975.0,25920.0,1230790.0,1360390.0,-14.279320987654321,Normal
+1507,Canada,Other services (except public administration) [81],Payroll employees,Number,2021-04-01,481705.0,A,2,2021,-74955.0,547500.0,7870.0,12245.0,516887.5,578112.5,-5.373213556553695,Normal
+1510,Canada,Public administration [91],Payroll employees,Number,2021-04-01,486760.0,A,2,2021,-30890.0,517650.0,11125.0,26555.0,451262.5,584037.5,-1.163246093014498,Normal
+1513,Canada,"Total, all industries",Payroll employees,Number,2021-07-01,15786300.0,A,3,2021,-522190.0,16115117.5,314250.0,561012.5,14712586.25,17517648.75,-0.5861143913905662,Normal
+1516,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2021-07-01,242155.0,A,3,2021,10865.0,234845.0,3275.0,6605.0,218332.5,251357.5,1.1067373202119606,Normal
+1519,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2021-07-01,189685.0,A,3,2021,-10925.0,201995.0,2437.5,7967.5,182076.25,221913.75,-1.5450266708503295,Normal
+1522,Canada,Utilities [22],Payroll employees,Number,2021-07-01,124640.0,A,3,2021,-3230.0,126665.0,1500.0,4862.5,114508.75,138821.25,-0.41645244215938304,Normal
+1525,Canada,Construction [23],Payroll employees,Number,2021-07-01,1061345.0,A,3,2021,17115.0,1052787.5,19900.0,62135.0,897450.0,1208125.0,0.1377243099702261,Normal
+1528,Canada,Manufacturing [31-33],Payroll employees,Number,2021-07-01,1519930.0,A,3,2021,-66705.0,1554265.0,24422.5,24422.5,1493208.75,1615321.25,-1.4058757293479374,Normal
+1531,Canada,Wholesale trade [41],Payroll employees,Number,2021-07-01,789290.0,A,3,2021,-33460.0,810057.5,7955.0,13412.5,776526.25,843588.75,-1.5483690587138863,Normal
+1534,Canada,Retail trade [44-45],Payroll employees,Number,2021-07-01,1961525.0,A,3,2021,-36610.0,1985932.5,2612.5,18305.0,1940170.0,2031695.0,-1.3333788582354549,Normal
+1537,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2021-07-01,767205.0,A,3,2021,-16685.0,775547.5,16682.5,33587.5,691578.75,859516.25,-0.24838109415705248,Normal
+1540,Canada,Information and cultural industries [51],Payroll employees,Number,2021-07-01,355610.0,A,3,2021,-2530.0,358352.5,-1265.0,2970.0,350927.5,365777.5,-0.9234006734006734,Normal
+1543,Canada,Finance and insurance [52],Payroll employees,Number,2021-07-01,764500.0,A,3,2021,13385.0,757807.5,14242.5,35930.0,667982.5,847632.5,0.18626495964375173,Normal
+1546,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2021-07-01,260390.0,A,3,2021,-37950.0,292767.5,2830.0,2420.0,286717.5,298817.5,-13.37913223140496,Normal
+1549,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2021-07-01,1056500.0,A,3,2021,77340.0,1017830.0,42847.5,139642.5,668723.75,1366936.25,0.27692142435146894,Normal
+1552,Canada,Management of companies and enterprises [55],Payroll employees,Number,2021-07-01,119775.0,A,3,2021,10685.0,114432.5,3080.0,9467.5,90763.75,138101.25,0.564298917348825,Normal
+1555,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2021-07-01,799280.0,A,3,2021,-44230.0,819757.5,6225.0,13692.5,785526.25,853988.75,-1.4955267482198285,Normal
+1558,Canada,Educational services [61],Payroll employees,Number,2021-07-01,1330605.0,A,3,2021,-28520.0,1344865.0,37962.5,57400.0,1201365.0,1488365.0,-0.2484320557491289,Normal
+1561,Canada,Health care and social assistance [62],Payroll employees,Number,2021-07-01,2168070.0,A,3,2021,90925.0,2122607.5,62685.0,139980.0,1772657.5,2472557.5,0.32477853979139876,Normal
+1564,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2021-07-01,219545.0,A,3,2021,-92380.0,298092.5,8637.5,14007.5,263073.75,333111.25,-5.607531679457433,Normal
+1567,Canada,Accommodation and food services [72],Payroll employees,Number,2021-07-01,1059210.0,A,3,2021,-286040.0,1301892.5,19617.5,24792.5,1239911.25,1363873.75,-9.788544922859735,Normal
+1570,Canada,Other services (except public administration) [81],Payroll employees,Number,2021-07-01,496270.0,A,3,2021,-62220.0,546332.5,7852.5,10930.0,519007.5,573657.5,-4.580283623055809,Normal
+1573,Canada,Public administration [91],Payroll employees,Number,2021-07-01,500765.0,A,3,2021,-21025.0,515717.5,12580.0,13042.5,483111.25,548323.75,-1.1464443166570826,Normal
+1576,Canada,"Total, all industries",Payroll employees,Number,2021-10-01,16153080.0,A,4,2021,914840.0,16153080.0,314375.0,750850.0,14275955.0,18030205.0,0.0,Normal
+1579,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2021-10-01,238230.0,A,4,2021,5030.0,233705.0,4565.0,7100.0,215955.0,251455.0,0.6373239436619719,Normal
+1582,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2021-10-01,194980.0,A,4,2021,7600.0,201695.0,4810.0,6715.0,184907.5,218482.5,-1.0,Normal
+1585,Canada,Utilities [22],Payroll employees,Number,2021-10-01,126590.0,A,4,2021,4465.0,126590.0,2135.0,4465.0,115427.5,137752.5,0.0,Normal
+1588,Canada,Construction [23],Payroll employees,Number,2021-10-01,1083455.0,A,4,2021,72635.0,1050165.0,29735.0,40725.0,948352.5,1151977.5,0.8174340085942295,Normal
+1591,Canada,Manufacturing [31-33],Payroll employees,Number,2021-10-01,1532915.0,A,4,2021,49740.0,1560885.0,19530.0,21860.0,1506235.0,1615535.0,-1.2795059469350412,Normal
+1594,Canada,Wholesale trade [41],Payroll employees,Number,2021-10-01,796600.0,A,4,2021,19060.0,812170.0,10200.0,12550.0,780795.0,843545.0,-1.2406374501992032,Normal
+1597,Canada,Retail trade [44-45],Payroll employees,Number,2021-10-01,1985905.0,A,4,2021,72720.0,1987880.0,7065.0,12350.0,1957005.0,2018755.0,-0.15991902834008098,Normal
+1600,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2021-10-01,771970.0,A,4,2021,15110.0,771970.0,15110.0,30290.0,696245.0,847695.0,0.0,Normal
+1603,Canada,Information and cultural industries [51],Payroll employees,Number,2021-10-01,365590.0,A,4,2021,22585.0,356830.0,1425.0,2220.0,351280.0,362380.0,3.945945945945946,Very Unusual
+1606,Canada,Finance and insurance [52],Payroll employees,Number,2021-10-01,774695.0,A,4,2021,39030.0,754325.0,12780.0,28290.0,683600.0,825050.0,0.7200424178154825,Normal
+1609,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2021-10-01,269135.0,A,4,2021,18565.0,292390.0,2090.0,2375.0,286452.5,298327.5,-9.791578947368421,Normal
+1612,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2021-10-01,1087625.0,A,4,2021,116805.0,988985.0,28995.0,98640.0,742385.0,1235585.0,1.0,Normal
+1615,Canada,Management of companies and enterprises [55],Payroll employees,Number,2021-10-01,121975.0,A,4,2021,6845.0,115130.0,1045.0,7890.0,95405.0,134855.0,0.867553865652725,Normal
+1618,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2021-10-01,803415.0,A,4,2021,31940.0,819260.0,7425.0,16585.0,777797.5,860722.5,-0.9553813687066627,Normal
+1621,Canada,Educational services [61],Payroll employees,Number,2021-10-01,1356710.0,A,4,2021,57645.0,1356710.0,39360.0,57645.0,1212597.5,1500822.5,0.0,Normal
+1624,Canada,Health care and social assistance [62],Payroll employees,Number,2021-10-01,2178660.0,A,4,2021,109190.0,2091775.0,62855.0,125755.0,1777387.5,2406162.5,0.6909069221899725,Normal
+1627,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2021-10-01,262265.0,A,4,2021,44055.0,296585.0,9135.0,16100.0,256335.0,336835.0,-2.1316770186335403,Normal
+1630,Canada,Accommodation and food services [72],Payroll employees,Number,2021-10-01,1166445.0,A,4,2021,165330.0,1296600.0,20345.0,18295.0,1250862.5,1342337.5,-7.114238863077343,Normal
+1633,Canada,Other services (except public administration) [81],Payroll employees,Number,2021-10-01,520000.0,A,4,2021,30340.0,547240.0,8130.0,10830.0,520165.0,574315.0,-2.515235457063712,Normal
+1636,Canada,Public administration [91],Payroll employees,Number,2021-10-01,515915.0,A,4,2021,26155.0,515915.0,12550.0,16260.0,475265.0,556565.0,0.0,Normal
+1639,Canada,"Total, all industries",Payroll employees,Number,2022-01-01,16317940.0,A,1,2022,1129250.0,16233475.0,226257.5,791880.0,14253775.0,18213175.0,0.10666388846794969,Normal
+1642,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2022-01-01,240820.0,A,1,2022,4620.0,234950.0,2467.5,6447.5,218831.25,251068.75,0.9104303993796045,Normal
+1645,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2022-01-01,200070.0,A,1,2022,13475.0,200472.5,772.5,6127.5,185153.75,215791.25,-0.065687474500204,Normal
+1648,Canada,Utilities [22],Payroll employees,Number,2022-01-01,128290.0,A,1,2022,5840.0,127075.0,2545.0,4465.0,115912.5,138237.5,0.2721164613661814,Normal
+1651,Canada,Construction [23],Payroll employees,Number,2022-01-01,1106325.0,A,1,2022,79665.0,1043335.0,16180.0,61010.0,890810.0,1195860.0,1.032453696115391,Normal
+1654,Canada,Manufacturing [31-33],Payroll employees,Number,2022-01-01,1542600.0,A,1,2022,55195.0,1551620.0,7507.5,15417.5,1513076.25,1590163.75,-0.5850494567861196,Normal
+1657,Canada,Wholesale trade [41],Payroll employees,Number,2022-01-01,806045.0,A,1,2022,24200.0,812322.5,4540.0,11230.0,784247.5,840397.5,-0.558993766696349,Normal
+1660,Canada,Retail trade [44-45],Payroll employees,Number,2022-01-01,1996835.0,A,1,2022,114095.0,1992642.5,1065.0,22745.0,1935780.0,2049505.0,0.18432622554407563,Normal
+1663,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2022-01-01,784435.0,A,1,2022,21850.0,777977.5,12892.5,39902.5,678221.25,877733.75,0.16183196541570077,Normal
+1666,Canada,Information and cultural industries [51],Payroll employees,Number,2022-01-01,371155.0,A,1,2022,27030.0,358825.0,-1115.0,6577.5,342381.25,375268.75,1.8745724059293045,Normal
+1669,Canada,Finance and insurance [52],Payroll employees,Number,2022-01-01,781145.0,A,1,2022,39535.0,747847.5,9717.5,26832.5,680766.25,814928.75,1.2409391596012298,Normal
+1672,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2022-01-01,277770.0,A,1,2022,23980.0,292810.0,1387.5,2160.0,287410.0,298210.0,-6.962962962962963,Normal
+1675,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2022-01-01,1116205.0,A,1,2022,122075.0,991570.0,25527.5,119185.0,693607.5,1289532.5,1.0457272307756849,Normal
+1678,Canada,Management of companies and enterprises [55],Payroll employees,Number,2022-01-01,123115.0,A,1,2022,7315.0,114257.5,1797.5,8630.0,92682.5,135832.5,1.0263615295480881,Normal
+1681,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2022-01-01,815680.0,A,1,2022,31950.0,819570.0,8152.5,17922.5,774763.75,864376.25,-0.21704561305621425,Normal
+1684,Canada,Educational services [61],Payroll employees,Number,2022-01-01,1371435.0,A,1,2022,72240.0,1351105.0,31960.0,61657.5,1196961.25,1505248.75,0.32972468880509265,Normal
+1687,Canada,Health care and social assistance [62],Payroll employees,Number,2022-01-01,2201920.0,A,1,2022,98275.0,2105047.5,59932.5,138162.5,1759641.25,2450453.75,0.701149009318737,Normal
+1690,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2022-01-01,265010.0,A,1,2022,66175.0,300275.0,9102.5,14527.5,263956.25,336593.75,-2.427465152297367,Normal
+1693,Canada,Accommodation and food services [72],Payroll employees,Number,2022-01-01,1143145.0,A,1,2022,238120.0,1296117.5,16772.5,31842.5,1216511.25,1375723.75,-4.804035487163382,Normal
+1696,Canada,Other services (except public administration) [81],Payroll employees,Number,2022-01-01,525040.0,A,1,2022,47045.0,548865.0,1970.0,8710.0,527090.0,570640.0,-2.735361653272101,Normal
+1699,Canada,Public administration [91],Payroll employees,Number,2022-01-01,520905.0,A,1,2022,36560.0,516762.5,12777.5,19030.0,469187.5,564337.5,0.21768260641093012,Normal
+1702,Canada,"Total, all industries",Payroll employees,Number,2022-04-01,16573175.0,A,2,2022,1150605.0,16215525.0,242115.0,792955.0,14233137.5,18197912.5,0.45103442187766013,Normal
+1705,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2022-04-01,245000.0,A,2,2022,5040.0,238605.0,3460.0,6395.0,222617.5,254592.5,1.0,Normal
+1708,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2022-04-01,202365.0,A,2,2022,13300.0,201650.0,3615.0,10595.0,175162.5,228137.5,0.06748466257668712,Normal
+1711,Canada,Utilities [22],Payroll employees,Number,2022-04-01,128415.0,A,2,2022,5380.0,127485.0,3390.0,4560.0,116085.0,138885.0,0.20394736842105263,Normal
+1714,Canada,Construction [23],Payroll employees,Number,2022-04-01,1122255.0,A,2,2022,68660.0,1053595.0,19370.0,68660.0,881945.0,1225245.0,1.0,Normal
+1717,Canada,Manufacturing [31-33],Payroll employees,Number,2022-04-01,1553080.0,A,2,2022,52685.0,1550885.0,7805.0,13385.0,1517422.5,1584347.5,0.16398954053044454,Normal
+1720,Canada,Wholesale trade [41],Payroll employees,Number,2022-04-01,809120.0,A,2,2022,21670.0,809120.0,1045.0,13585.0,775157.5,843082.5,0.0,Normal
+1723,Canada,Retail trade [44-45],Payroll employees,Number,2022-04-01,2012220.0,A,2,2022,77315.0,1980185.0,985.0,29785.0,1905722.5,2054647.5,1.075541379889206,Normal
+1726,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2022-04-01,797085.0,A,2,2022,34025.0,776305.0,8815.0,41930.0,671480.0,881130.0,0.49558788456952063,Normal
+1729,Canada,Information and cultural industries [51],Payroll employees,Number,2022-04-01,377475.0,A,2,2022,28950.0,359060.0,-5185.0,9570.0,335135.0,382985.0,1.9242424242424243,Normal
+1732,Canada,Finance and insurance [52],Payroll employees,Number,2022-04-01,796345.0,A,2,2022,42170.0,754175.0,8095.0,33265.0,671012.5,837337.5,1.2676987825041335,Normal
+1735,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2022-04-01,280205.0,A,2,2022,23805.0,293220.0,1045.0,1045.0,290607.5,295832.5,-12.454545454545455,Normal
+1738,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2022-04-01,1146245.0,A,2,2022,123105.0,1023140.0,36355.0,137770.0,678715.0,1367565.0,0.8935544748493867,Normal
+1741,Canada,Management of companies and enterprises [55],Payroll employees,Number,2022-04-01,123675.0,A,2,2022,7975.0,115700.0,1735.0,8175.0,95262.5,136137.5,0.9755351681957186,Normal
+1744,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2022-04-01,824490.0,A,2,2022,33475.0,824235.0,5455.0,12070.0,794060.0,854410.0,0.02112676056338028,Normal
+1747,Canada,Educational services [61],Payroll employees,Number,2022-04-01,1380620.0,A,2,2022,71505.0,1347305.0,36600.0,76895.0,1155067.5,1539542.5,0.43325313739514926,Normal
+1750,Canada,Health care and social assistance [62],Payroll employees,Number,2022-04-01,2221385.0,A,2,2022,78935.0,2142450.0,62430.0,146570.0,1776025.0,2508875.0,0.5385481339974074,Normal
+1753,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2022-04-01,279135.0,A,2,2022,82485.0,299630.0,8495.0,16965.0,257217.5,342042.5,-1.2080754494547599,Normal
+1756,Canada,Accommodation and food services [72],Payroll employees,Number,2022-04-01,1216335.0,A,2,2022,290865.0,1295590.0,19975.0,25920.0,1230790.0,1360390.0,-3.0576774691358026,Normal
+1759,Canada,Other services (except public administration) [81],Payroll employees,Number,2022-04-01,532640.0,A,2,2022,50935.0,547500.0,7870.0,12245.0,516887.5,578112.5,-1.2135565536953858,Normal
+1762,Canada,Public administration [91],Payroll employees,Number,2022-04-01,525080.0,A,2,2022,38320.0,517650.0,11125.0,26555.0,451262.5,584037.5,0.27979664846544905,Normal
+1765,Canada,"Total, all industries",Payroll employees,Number,2022-07-01,16749975.0,A,3,2022,963675.0,16115117.5,314250.0,561012.5,14712586.25,17517648.75,1.1316280831532275,Normal
+1768,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2022-07-01,240745.0,A,3,2022,-1410.0,234845.0,3275.0,6605.0,218332.5,251357.5,0.8932626797880394,Normal
+1771,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2022-07-01,206775.0,A,3,2022,17090.0,201995.0,2437.5,7967.5,182076.25,221913.75,0.5999372450580484,Normal
+1774,Canada,Utilities [22],Payroll employees,Number,2022-07-01,129500.0,A,3,2022,4860.0,126665.0,1500.0,4862.5,114508.75,138821.25,0.5830334190231362,Normal
+1777,Canada,Construction [23],Payroll employees,Number,2022-07-01,1128700.0,A,3,2022,67355.0,1052787.5,19900.0,62135.0,897450.0,1208125.0,1.221734932002897,Normal
+1780,Canada,Manufacturing [31-33],Payroll employees,Number,2022-07-01,1554725.0,A,3,2022,34795.0,1554265.0,24422.5,24422.5,1493208.75,1615321.25,0.018835090592691166,Normal
+1783,Canada,Wholesale trade [41],Payroll employees,Number,2022-07-01,815480.0,A,3,2022,26190.0,810057.5,7955.0,13412.5,776526.25,843588.75,0.40428704566635604,Normal
+1786,Canada,Retail trade [44-45],Payroll employees,Number,2022-07-01,2018705.0,A,3,2022,57180.0,1985932.5,2612.5,18305.0,1940170.0,2031695.0,1.7903578257306747,Normal
+1789,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2022-07-01,808805.0,A,3,2022,41600.0,775547.5,16682.5,33587.5,691578.75,859516.25,0.9901749162634909,Normal
+1792,Canada,Information and cultural industries [51],Payroll employees,Number,2022-07-01,385575.0,A,3,2022,29965.0,358352.5,-1265.0,2970.0,350927.5,365777.5,9.165824915824915,Very Unusual
+1795,Canada,Finance and insurance [52],Payroll employees,Number,2022-07-01,810445.0,A,3,2022,45945.0,757807.5,14242.5,35930.0,667982.5,847632.5,1.4650013915947675,Normal
+1798,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2022-07-01,284285.0,A,3,2022,23895.0,292767.5,2830.0,2420.0,286717.5,298817.5,-3.5051652892561984,Normal
+1801,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2022-07-01,1172750.0,A,3,2022,116250.0,1017830.0,42847.5,139642.5,668723.75,1366936.25,1.109404371878189,Normal
+1804,Canada,Management of companies and enterprises [55],Payroll employees,Number,2022-07-01,121865.0,A,3,2022,2090.0,114432.5,3080.0,9467.5,90763.75,138101.25,0.7850541325587537,Normal
+1807,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2022-07-01,831070.0,A,3,2022,31790.0,819757.5,6225.0,13692.5,785526.25,853988.75,0.8261822165419025,Normal
+1810,Canada,Educational services [61],Payroll employees,Number,2022-07-01,1393595.0,A,3,2022,62990.0,1344865.0,37962.5,57400.0,1201365.0,1488365.0,0.8489547038327526,Normal
+1813,Canada,Health care and social assistance [62],Payroll employees,Number,2022-07-01,2227980.0,A,3,2022,59910.0,2122607.5,62685.0,139980.0,1772657.5,2472557.5,0.7527682526075153,Normal
+1816,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2022-07-01,287905.0,A,3,2022,68360.0,298092.5,8637.5,14007.5,263073.75,333111.25,-0.727288952346957,Normal
+1819,Canada,Accommodation and food services [72],Payroll employees,Number,2022-07-01,1263555.0,A,3,2022,204345.0,1301892.5,19617.5,24792.5,1239911.25,1363873.75,-1.5463345769890087,Normal
+1822,Canada,Other services (except public administration) [81],Payroll employees,Number,2022-07-01,540655.0,A,3,2022,44385.0,546332.5,7852.5,10930.0,519007.5,573657.5,-0.5194419030192132,Normal
+1825,Canada,Public administration [91],Payroll employees,Number,2022-07-01,526850.0,A,3,2022,26085.0,515717.5,12580.0,13042.5,483111.25,548323.75,0.8535556833429174,Normal
+1828,Canada,"Total, all industries",Payroll employees,Number,2022-10-01,16903930.0,A,4,2022,750850.0,16153080.0,314375.0,750850.0,14275955.0,18030205.0,1.0,Normal
+1831,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2022-10-01,242795.0,A,4,2022,4565.0,233705.0,4565.0,7100.0,215955.0,251455.0,1.2802816901408451,Normal
+1834,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2022-10-01,208030.0,A,4,2022,13050.0,201695.0,4810.0,6715.0,184907.5,218482.5,0.9434102755026061,Normal
+1837,Canada,Utilities [22],Payroll employees,Number,2022-10-01,130440.0,A,4,2022,3850.0,126590.0,2135.0,4465.0,115427.5,137752.5,0.8622620380739082,Normal
+1840,Canada,Construction [23],Payroll employees,Number,2022-10-01,1142325.0,A,4,2022,58870.0,1050165.0,29735.0,40725.0,948352.5,1151977.5,2.262983425414365,Unusual
+1843,Canada,Manufacturing [31-33],Payroll employees,Number,2022-10-01,1563025.0,A,4,2022,30110.0,1560885.0,19530.0,21860.0,1506235.0,1615535.0,0.09789569990850869,Normal
+1846,Canada,Wholesale trade [41],Payroll employees,Number,2022-10-01,818175.0,A,4,2022,21575.0,812170.0,10200.0,12550.0,780795.0,843545.0,0.4784860557768924,Normal
+1849,Canada,Retail trade [44-45],Payroll employees,Number,2022-10-01,2021940.0,A,4,2022,36035.0,1987880.0,7065.0,12350.0,1957005.0,2018755.0,2.7578947368421054,Unusual
+1852,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2022-10-01,819755.0,A,4,2022,47785.0,771970.0,15110.0,30290.0,696245.0,847695.0,1.5775833608451635,Normal
+1855,Canada,Information and cultural industries [51],Payroll employees,Number,2022-10-01,387625.0,A,4,2022,22035.0,356830.0,1425.0,2220.0,351280.0,362380.0,13.871621621621621,Very Unusual
+1858,Canada,Finance and insurance [52],Payroll employees,Number,2022-10-01,820070.0,A,4,2022,45375.0,754325.0,12780.0,28290.0,683600.0,825050.0,2.323966065747614,Unusual
+1861,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2022-10-01,288445.0,A,4,2022,19310.0,292390.0,2090.0,2375.0,286452.5,298327.5,-1.6610526315789473,Normal
+1864,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2022-10-01,1194820.0,A,4,2022,107195.0,988985.0,28995.0,98640.0,742385.0,1235585.0,2.086729521492295,Unusual
+1867,Canada,Management of companies and enterprises [55],Payroll employees,Number,2022-10-01,123020.0,A,4,2022,1045.0,115130.0,1045.0,7890.0,95405.0,134855.0,1.0,Normal
+1870,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2022-10-01,837260.0,A,4,2022,33845.0,819260.0,7425.0,16585.0,777797.5,860722.5,1.0853180584865842,Normal
+1873,Canada,Educational services [61],Payroll employees,Number,2022-10-01,1406320.0,A,4,2022,49610.0,1356710.0,39360.0,57645.0,1212597.5,1500822.5,0.8606123688090901,Normal
+1876,Canada,Health care and social assistance [62],Payroll employees,Number,2022-10-01,2241515.0,A,4,2022,62855.0,2091775.0,62855.0,125755.0,1777387.5,2406162.5,1.1907280028627092,Normal
+1879,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2022-10-01,296585.0,A,4,2022,34320.0,296585.0,9135.0,16100.0,256335.0,336835.0,0.0,Normal
+1882,Canada,Accommodation and food services [72],Payroll employees,Number,2022-10-01,1282365.0,A,4,2022,115920.0,1296600.0,20345.0,18295.0,1250862.5,1342337.5,-0.7780814430172178,Normal
+1885,Canada,Other services (except public administration) [81],Payroll employees,Number,2022-10-01,547240.0,A,4,2022,27240.0,547240.0,8130.0,10830.0,520165.0,574315.0,0.0,Normal
+1888,Canada,Public administration [91],Payroll employees,Number,2022-10-01,532175.0,A,4,2022,16260.0,515915.0,12550.0,16260.0,475265.0,556565.0,1.0,Normal
+1891,Canada,"Total, all industries",Payroll employees,Number,2023-01-01,17022120.0,A,1,2023,704180.0,16233475.0,226257.5,791880.0,14253775.0,18213175.0,0.9959147850684447,Normal
+1894,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2023-01-01,240625.0,A,1,2023,-195.0,234950.0,2467.5,6447.5,218831.25,251068.75,0.8801861186506398,Normal
+1897,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2023-01-01,210330.0,A,1,2023,10260.0,200472.5,772.5,6127.5,185153.75,215791.25,1.6087311301509588,Normal
+1900,Canada,Utilities [22],Payroll employees,Number,2023-01-01,130675.0,A,1,2023,2385.0,127075.0,2545.0,4465.0,115912.5,138237.5,0.8062709966405375,Normal
+1903,Canada,Construction [23],Payroll employees,Number,2023-01-01,1158520.0,A,1,2023,52195.0,1043335.0,16180.0,61010.0,890810.0,1195860.0,1.887969185379446,Normal
+1906,Canada,Manufacturing [31-33],Payroll employees,Number,2023-01-01,1560640.0,A,1,2023,18040.0,1551620.0,7507.5,15417.5,1513076.25,1590163.75,0.5850494567861196,Normal
+1909,Canada,Wholesale trade [41],Payroll employees,Number,2023-01-01,818600.0,A,1,2023,12555.0,812322.5,4540.0,11230.0,784247.5,840397.5,0.558993766696349,Normal
+1912,Canada,Retail trade [44-45],Payroll employees,Number,2023-01-01,2027490.0,A,1,2023,30655.0,1992642.5,1065.0,22745.0,1935780.0,2049505.0,1.5320949659265772,Normal
+1915,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2023-01-01,831710.0,A,1,2023,47275.0,777977.5,12892.5,39902.5,678221.25,877733.75,1.3465948248856587,Normal
+1918,Canada,Information and cultural industries [51],Payroll employees,Number,2023-01-01,377930.0,A,1,2023,6775.0,358825.0,-1115.0,6577.5,342381.25,375268.75,2.9045990117825924,Unusual
+1921,Canada,Finance and insurance [52],Payroll employees,Number,2023-01-01,833740.0,A,1,2023,52595.0,747847.5,9717.5,26832.5,680766.25,814928.75,3.2010621447871053,Very Unusual
+1924,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2023-01-01,290045.0,A,1,2023,12275.0,292810.0,1387.5,2160.0,287410.0,298210.0,-1.2800925925925926,Normal
+1927,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2023-01-01,1204240.0,A,1,2023,88035.0,991570.0,25527.5,119185.0,693607.5,1289532.5,1.7843688383605318,Normal
+1930,Canada,Management of companies and enterprises [55],Payroll employees,Number,2023-01-01,125350.0,A,1,2023,2235.0,114257.5,1797.5,8630.0,92682.5,135832.5,1.2853418308227114,Normal
+1933,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2023-01-01,839135.0,A,1,2023,23455.0,819570.0,8152.5,17922.5,774763.75,864376.25,1.091644580834147,Normal
+1936,Canada,Educational services [61],Payroll employees,Number,2023-01-01,1422510.0,A,1,2023,51075.0,1351105.0,31960.0,61657.5,1196961.25,1505248.75,1.1580910675911285,Normal
+1939,Canada,Health care and social assistance [62],Payroll employees,Number,2023-01-01,2257425.0,A,1,2023,55505.0,2105047.5,59932.5,138162.5,1759641.25,2450453.75,1.102886094273048,Normal
+1942,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2023-01-01,304035.0,A,1,2023,39025.0,300275.0,9102.5,14527.5,263956.25,336593.75,0.2588194802959904,Normal
+1945,Canada,Accommodation and food services [72],Payroll employees,Number,2023-01-01,1294640.0,A,1,2023,151495.0,1296117.5,16772.5,31842.5,1216511.25,1375723.75,-0.04640025123655492,Normal
+1948,Canada,Other services (except public administration) [81],Payroll employees,Number,2023-01-01,555315.0,A,1,2023,30275.0,548865.0,1970.0,8710.0,527090.0,570640.0,0.7405281285878301,Normal
+1951,Canada,Public administration [91],Payroll employees,Number,2023-01-01,539170.0,A,1,2023,18265.0,516762.5,12777.5,19030.0,469187.5,564337.5,1.1774829217025748,Normal
+1954,Canada,"Total, all industries",Payroll employees,Number,2023-04-01,17081845.0,A,2,2023,508670.0,16215525.0,242115.0,792955.0,14233137.5,18197912.5,1.092521013172248,Normal
+1957,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2023-04-01,238605.0,A,2,2023,-6395.0,238605.0,3460.0,6395.0,222617.5,254592.5,0.0,Normal
+1960,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2023-04-01,213670.0,A,2,2023,11305.0,201650.0,3615.0,10595.0,175162.5,228137.5,1.1344974044360547,Normal
+1963,Canada,Utilities [22],Payroll employees,Number,2023-04-01,132045.0,A,2,2023,3630.0,127485.0,3390.0,4560.0,116085.0,138885.0,1.0,Normal
+1966,Canada,Construction [23],Payroll employees,Number,2023-04-01,1160460.0,A,2,2023,38205.0,1053595.0,19370.0,68660.0,881945.0,1225245.0,1.5564375182056511,Normal
+1969,Canada,Manufacturing [31-33],Payroll employees,Number,2023-04-01,1560885.0,A,2,2023,7805.0,1550885.0,7805.0,13385.0,1517422.5,1584347.5,0.7471049682480388,Normal
+1972,Canada,Wholesale trade [41],Payroll employees,Number,2023-04-01,822705.0,A,2,2023,13585.0,809120.0,1045.0,13585.0,775157.5,843082.5,1.0,Normal
+1975,Canada,Retail trade [44-45],Payroll employees,Number,2023-04-01,2023650.0,A,2,2023,11430.0,1980185.0,985.0,29785.0,1905722.5,2054647.5,1.4592915897263723,Normal
+1978,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2023-04-01,838850.0,A,2,2023,41765.0,776305.0,8815.0,41930.0,671480.0,881130.0,1.491652754590985,Normal
+1981,Canada,Information and cultural industries [51],Payroll employees,Number,2023-04-01,371810.0,A,2,2023,-5665.0,359060.0,-5185.0,9570.0,335135.0,382985.0,1.3322884012539185,Normal
+1984,Canada,Finance and insurance [52],Payroll employees,Number,2023-04-01,832705.0,A,2,2023,36360.0,754175.0,8095.0,33265.0,671012.5,837337.5,2.360739516007816,Unusual
+1987,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2023-04-01,290545.0,A,2,2023,10340.0,293220.0,1045.0,1045.0,290607.5,295832.5,-2.5598086124401913,Normal
+1990,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2023-04-01,1214015.0,A,2,2023,67770.0,1023140.0,36355.0,137770.0,678715.0,1367565.0,1.3854612760397764,Normal
+1993,Canada,Management of companies and enterprises [55],Payroll employees,Number,2023-04-01,125410.0,A,2,2023,1735.0,115700.0,1735.0,8175.0,95262.5,136137.5,1.1877675840978594,Normal
+1996,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2023-04-01,836305.0,A,2,2023,11815.0,824235.0,5455.0,12070.0,794060.0,854410.0,1.0,Normal
+1999,Canada,Educational services [61],Payroll employees,Number,2023-04-01,1428415.0,A,2,2023,47795.0,1347305.0,36600.0,76895.0,1155067.5,1539542.5,1.0548150074777294,Normal
+2002,Canada,Health care and social assistance [62],Payroll employees,Number,2023-04-01,2273660.0,A,2,2023,52275.0,2142450.0,62430.0,146570.0,1776025.0,2508875.0,0.8952036569557208,Normal
+2005,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2023-04-01,308440.0,A,2,2023,29305.0,299630.0,8495.0,16965.0,257217.5,342042.5,0.5193044503389331,Normal
+2008,Canada,Accommodation and food services [72],Payroll employees,Number,2023-04-01,1301245.0,A,2,2023,84910.0,1295590.0,19975.0,25920.0,1230790.0,1360390.0,0.2181712962962963,Normal
+2011,Canada,Other services (except public administration) [81],Payroll employees,Number,2023-04-01,559745.0,A,2,2023,27105.0,547500.0,7870.0,12245.0,516887.5,578112.5,1.0,Normal
+2014,Canada,Public administration [91],Payroll employees,Number,2023-04-01,548675.0,A,2,2023,23595.0,517650.0,11125.0,26555.0,451262.5,584037.5,1.1683298813782714,Normal
+2017,Canada,"Total, all industries",Payroll employees,Number,2023-07-01,17164465.0,A,3,2023,414490.0,16115117.5,314250.0,561012.5,14712586.25,17517648.75,1.87045297564671,Normal
+2020,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2023-07-01,238400.0,A,3,2023,-2345.0,234845.0,3275.0,6605.0,218332.5,251357.5,0.538228614685844,Normal
+2023,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2023-07-01,213150.0,A,3,2023,6375.0,201995.0,2437.5,7967.5,182076.25,221913.75,1.4000627549419518,Normal
+2026,Canada,Utilities [22],Payroll employees,Number,2023-07-01,134065.0,A,3,2023,4565.0,126665.0,1500.0,4862.5,114508.75,138821.25,1.5218508997429305,Normal
+2029,Canada,Construction [23],Payroll employees,Number,2023-07-01,1172955.0,A,3,2023,44255.0,1052787.5,19900.0,62135.0,897450.0,1208125.0,1.9339744105576566,Normal
+2032,Canada,Manufacturing [31-33],Payroll employees,Number,2023-07-01,1570740.0,A,3,2023,16015.0,1554265.0,24422.5,24422.5,1493208.75,1615321.25,0.6745828641621455,Normal
+2035,Canada,Wholesale trade [41],Payroll employees,Number,2023-07-01,824190.0,A,3,2023,8710.0,810057.5,7955.0,13412.5,776526.25,843588.75,1.053681267474371,Normal
+2038,Canada,Retail trade [44-45],Payroll employees,Number,2023-07-01,2023930.0,A,3,2023,5225.0,1985932.5,2612.5,18305.0,1940170.0,2031695.0,2.0757989620322315,Unusual
+2041,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2023-07-01,840495.0,A,3,2023,31690.0,775547.5,16682.5,33587.5,691578.75,859516.25,1.9336806847785635,Normal
+2044,Canada,Information and cultural industries [51],Payroll employees,Number,2023-07-01,364645.0,A,3,2023,-20930.0,358352.5,-1265.0,2970.0,350927.5,365777.5,2.1186868686868685,Unusual
+2047,Canada,Finance and insurance [52],Payroll employees,Number,2023-07-01,833560.0,A,3,2023,23115.0,757807.5,14242.5,35930.0,667982.5,847632.5,2.108335652657946,Unusual
+2050,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2023-07-01,291325.0,A,3,2023,7040.0,292767.5,2830.0,2420.0,286717.5,298817.5,-0.5960743801652892,Normal
+2053,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2023-07-01,1219300.0,A,3,2023,46550.0,1017830.0,42847.5,139642.5,668723.75,1366936.25,1.442755608070609,Normal
+2056,Canada,Management of companies and enterprises [55],Payroll employees,Number,2023-07-01,125935.0,A,3,2023,4070.0,114432.5,3080.0,9467.5,90763.75,138101.25,1.2149458674412463,Normal
+2059,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2023-07-01,835830.0,A,3,2023,4760.0,819757.5,6225.0,13692.5,785526.25,853988.75,1.1738177834580974,Normal
+2062,Canada,Educational services [61],Payroll employees,Number,2023-07-01,1431695.0,A,3,2023,38100.0,1344865.0,37962.5,57400.0,1201365.0,1488365.0,1.5127177700348433,Normal
+2065,Canada,Health care and social assistance [62],Payroll employees,Number,2023-07-01,2306045.0,A,3,2023,78065.0,2122607.5,62685.0,139980.0,1772657.5,2472557.5,1.310455065009287,Normal
+2068,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2023-07-01,312910.0,A,3,2023,25005.0,298092.5,8637.5,14007.5,263073.75,333111.25,1.057826164554703,Normal
+2071,Canada,Accommodation and food services [72],Payroll employees,Number,2023-07-01,1306980.0,A,3,2023,43425.0,1301892.5,19617.5,24792.5,1239911.25,1363873.75,0.20520318644751437,Normal
+2074,Canada,Other services (except public administration) [81],Payroll employees,Number,2023-07-01,563020.0,A,3,2023,22365.0,546332.5,7852.5,10930.0,519007.5,573657.5,1.52676120768527,Normal
+2077,Canada,Public administration [91],Payroll employees,Number,2023-07-01,555290.0,A,3,2023,28440.0,515717.5,12580.0,13042.5,483111.25,548323.75,3.0341192256085874,Very Unusual
+2080,Canada,"Total, all industries",Payroll employees,Number,2023-10-01,17196790.0,A,4,2023,292860.0,16153080.0,314375.0,750850.0,14275955.0,18030205.0,1.3900379569820869,Normal
+2083,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2023-10-01,240790.0,A,4,2023,-2005.0,233705.0,4565.0,7100.0,215955.0,251455.0,0.997887323943662,Normal
+2086,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2023-10-01,213175.0,A,4,2023,5145.0,201695.0,4810.0,6715.0,184907.5,218482.5,1.7096053611317945,Normal
+2089,Canada,Utilities [22],Payroll employees,Number,2023-10-01,135180.0,A,4,2023,4740.0,126590.0,2135.0,4465.0,115427.5,137752.5,1.923852183650616,Normal
+2092,Canada,Construction [23],Payroll employees,Number,2023-10-01,1172105.0,A,4,2023,29780.0,1050165.0,29735.0,40725.0,948352.5,1151977.5,2.994229588704727,Unusual
+2095,Canada,Manufacturing [31-33],Payroll employees,Number,2023-10-01,1566950.0,A,4,2023,3925.0,1560885.0,19530.0,21860.0,1506235.0,1615535.0,0.2774473924977127,Normal
+2098,Canada,Wholesale trade [41],Payroll employees,Number,2023-10-01,824720.0,A,4,2023,6545.0,812170.0,10200.0,12550.0,780795.0,843545.0,1.0,Normal
+2101,Canada,Retail trade [44-45],Payroll employees,Number,2023-10-01,2020990.0,A,4,2023,-950.0,1987880.0,7065.0,12350.0,1957005.0,2018755.0,2.6809716599190283,Unusual
+2104,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2023-10-01,841200.0,A,4,2023,21445.0,771970.0,15110.0,30290.0,696245.0,847695.0,2.28557279630241,Unusual
+2107,Canada,Information and cultural industries [51],Payroll employees,Number,2023-10-01,356550.0,A,4,2023,-31075.0,356830.0,1425.0,2220.0,351280.0,362380.0,-0.12612612612612611,Normal
+2110,Canada,Finance and insurance [52],Payroll employees,Number,2023-10-01,838750.0,A,4,2023,18680.0,754325.0,12780.0,28290.0,683600.0,825050.0,2.984270060091905,Unusual
+2113,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2023-10-01,290535.0,A,4,2023,2090.0,292390.0,2090.0,2375.0,286452.5,298327.5,-0.7810526315789473,Normal
+2116,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2023-10-01,1221945.0,A,4,2023,27125.0,988985.0,28995.0,98640.0,742385.0,1235585.0,2.361719383617194,Unusual
+2119,Canada,Management of companies and enterprises [55],Payroll employees,Number,2023-10-01,123155.0,A,4,2023,135.0,115130.0,1045.0,7890.0,95405.0,134855.0,1.0171102661596958,Normal
+2122,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2023-10-01,835845.0,A,4,2023,-1415.0,819260.0,7425.0,16585.0,777797.5,860722.5,1.0,Normal
+2125,Canada,Educational services [61],Payroll employees,Number,2023-10-01,1435100.0,A,4,2023,28780.0,1356710.0,39360.0,57645.0,1212597.5,1500822.5,1.3598750975800156,Normal
+2128,Canada,Health care and social assistance [62],Payroll employees,Number,2023-10-01,2330320.0,A,4,2023,88805.0,2091775.0,62855.0,125755.0,1777387.5,2406162.5,1.8969027076458191,Normal
+2131,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2023-10-01,314225.0,A,4,2023,17640.0,296585.0,9135.0,16100.0,256335.0,336835.0,1.0956521739130434,Normal
+2134,Canada,Accommodation and food services [72],Payroll employees,Number,2023-10-01,1307565.0,A,4,2023,25200.0,1296600.0,20345.0,18295.0,1250862.5,1342337.5,0.5993440830828095,Normal
+2137,Canada,Other services (except public administration) [81],Payroll employees,Number,2023-10-01,568065.0,A,4,2023,20825.0,547240.0,8130.0,10830.0,520165.0,574315.0,1.922899353647276,Normal
+2140,Canada,Public administration [91],Payroll employees,Number,2023-10-01,559635.0,A,4,2023,27460.0,515915.0,12550.0,16260.0,475265.0,556565.0,2.6888068880688807,Unusual
+2143,Canada,"Total, all industries",Payroll employees,Number,2024-01-01,17212055.0,A,1,2024,189935.0,16233475.0,226257.5,791880.0,14253775.0,18213175.0,1.2357680456634843,Normal
+2146,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2024-01-01,240265.0,A,1,2024,-360.0,234950.0,2467.5,6447.5,218831.25,251068.75,0.824350523458705,Normal
+2149,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2024-01-01,211630.0,A,1,2024,1300.0,200472.5,772.5,6127.5,185153.75,215791.25,1.8208894328845369,Normal
+2152,Canada,Utilities [22],Payroll employees,Number,2024-01-01,134060.0,A,1,2024,3385.0,127075.0,2545.0,4465.0,115912.5,138237.5,1.5643896976483762,Normal
+2155,Canada,Construction [23],Payroll employees,Number,2024-01-01,1173460.0,A,1,2024,14940.0,1043335.0,16180.0,61010.0,890810.0,1195860.0,2.132847074250123,Unusual
+2158,Canada,Manufacturing [31-33],Payroll employees,Number,2024-01-01,1564785.0,A,1,2024,4145.0,1551620.0,7507.5,15417.5,1513076.25,1590163.75,0.8538997892005837,Normal
+2161,Canada,Wholesale trade [41],Payroll employees,Number,2024-01-01,823875.0,A,1,2024,5275.0,812322.5,4540.0,11230.0,784247.5,840397.5,1.0287177203918076,Normal
+2164,Canada,Retail trade [44-45],Payroll employees,Number,2024-01-01,2007115.0,A,1,2024,-20375.0,1992642.5,1065.0,22745.0,1935780.0,2049505.0,0.6362936909210816,Normal
+2167,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2024-01-01,839520.0,A,1,2024,7810.0,777977.5,12892.5,39902.5,678221.25,877733.75,1.5423219096547836,Normal
+2170,Canada,Information and cultural industries [51],Payroll employees,Number,2024-01-01,359980.0,A,1,2024,-17950.0,358825.0,-1115.0,6577.5,342381.25,375268.75,0.17559863169897377,Normal
+2173,Canada,Finance and insurance [52],Payroll employees,Number,2024-01-01,841785.0,A,1,2024,8045.0,747847.5,9717.5,26832.5,680766.25,814928.75,3.500885120655921,Very Unusual
+2176,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2024-01-01,292410.0,A,1,2024,2365.0,292810.0,1387.5,2160.0,287410.0,298210.0,-0.18518518518518517,Normal
+2179,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2024-01-01,1222870.0,A,1,2024,18630.0,991570.0,25527.5,119185.0,693607.5,1289532.5,1.9406804547552126,Normal
+2182,Canada,Management of companies and enterprises [55],Payroll employees,Number,2024-01-01,120910.0,A,1,2024,-4440.0,114257.5,1797.5,8630.0,92682.5,135832.5,0.7708574739281576,Normal
+2185,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2024-01-01,829030.0,A,1,2024,-10105.0,819570.0,8152.5,17922.5,774763.75,864376.25,0.5278281489747524,Normal
+2188,Canada,Educational services [61],Payroll employees,Number,2024-01-01,1445370.0,A,1,2024,22860.0,1351105.0,31960.0,61657.5,1196961.25,1505248.75,1.528848882942059,Normal
+2191,Canada,Health care and social assistance [62],Payroll employees,Number,2024-01-01,2349845.0,A,1,2024,92420.0,2105047.5,59932.5,138162.5,1759641.25,2450453.75,1.771808558762327,Normal
+2194,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2024-01-01,314440.0,A,1,2024,10405.0,300275.0,9102.5,14527.5,263956.25,336593.75,0.9750473240406127,Normal
+2197,Canada,Accommodation and food services [72],Payroll employees,Number,2024-01-01,1301970.0,A,1,2024,7330.0,1296117.5,16772.5,31842.5,1216511.25,1375723.75,0.18379524220774124,Normal
+2200,Canada,Other services (except public administration) [81],Payroll employees,Number,2024-01-01,573360.0,A,1,2024,18045.0,548865.0,1970.0,8710.0,527090.0,570640.0,2.812284730195178,Unusual
+2203,Canada,Public administration [91],Payroll employees,Number,2024-01-01,565375.0,A,1,2024,26205.0,516762.5,12777.5,19030.0,469187.5,564337.5,2.5545191802417238,Unusual
+2206,Canada,"Total, all industries",Payroll employees,Number,2024-04-01,17281580.0,A,2,2024,199735.0,16215525.0,242115.0,792955.0,14233137.5,18197912.5,1.3444079424431399,Normal
+2209,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2024-04-01,242005.0,A,2,2024,3400.0,238605.0,3460.0,6395.0,222617.5,254592.5,0.5316653635652854,Normal
+2212,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2024-04-01,212245.0,A,2,2024,-1425.0,201650.0,3615.0,10595.0,175162.5,228137.5,1.0,Normal
+2215,Canada,Utilities [22],Payroll employees,Number,2024-04-01,135435.0,A,2,2024,3390.0,127485.0,3390.0,4560.0,116085.0,138885.0,1.743421052631579,Normal
+2218,Canada,Construction [23],Payroll employees,Number,2024-04-01,1179830.0,A,2,2024,19370.0,1053595.0,19370.0,68660.0,881945.0,1225245.0,1.8385522866297699,Normal
+2221,Canada,Manufacturing [31-33],Payroll employees,Number,2024-04-01,1564270.0,A,2,2024,3385.0,1550885.0,7805.0,13385.0,1517422.5,1584347.5,1.0,Normal
+2224,Canada,Wholesale trade [41],Payroll employees,Number,2024-04-01,823750.0,A,2,2024,1045.0,809120.0,1045.0,13585.0,775157.5,843082.5,1.0769230769230769,Normal
+2227,Canada,Retail trade [44-45],Payroll employees,Number,2024-04-01,2004855.0,A,2,2024,-18795.0,1980185.0,985.0,29785.0,1905722.5,2054647.5,0.8282692630518718,Normal
+2230,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2024-04-01,842415.0,A,2,2024,3565.0,776305.0,8815.0,41930.0,671480.0,881130.0,1.5766754113999524,Normal
+2233,Canada,Information and cultural industries [51],Payroll employees,Number,2024-04-01,361060.0,A,2,2024,-10750.0,359060.0,-5185.0,9570.0,335135.0,382985.0,0.2089864158829676,Normal
+2236,Canada,Finance and insurance [52],Payroll employees,Number,2024-04-01,846865.0,A,2,2024,14160.0,754175.0,8095.0,33265.0,671012.5,837337.5,2.786412144897039,Unusual
+2239,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2024-04-01,293395.0,A,2,2024,2850.0,293220.0,1045.0,1045.0,290607.5,295832.5,0.1674641148325359,Normal
+2242,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2024-04-01,1225410.0,A,2,2024,11395.0,1023140.0,36355.0,137770.0,678715.0,1367565.0,1.4681715903317123,Normal
+2245,Canada,Management of companies and enterprises [55],Payroll employees,Number,2024-04-01,122055.0,A,2,2024,-3355.0,115700.0,1735.0,8175.0,95262.5,136137.5,0.7773700305810397,Normal
+2248,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2024-04-01,827205.0,A,2,2024,-9100.0,824235.0,5455.0,12070.0,794060.0,854410.0,0.24606462303231152,Normal
+2251,Canada,Educational services [61],Payroll employees,Number,2024-04-01,1465015.0,A,2,2024,36600.0,1347305.0,36600.0,76895.0,1155067.5,1539542.5,1.5307887378893297,Normal
+2254,Canada,Health care and social assistance [62],Payroll employees,Number,2024-04-01,2373925.0,A,2,2024,100265.0,2142450.0,62430.0,146570.0,1776025.0,2508875.0,1.5792795251415706,Normal
+2257,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2024-04-01,316595.0,A,2,2024,8155.0,299630.0,8495.0,16965.0,257217.5,342042.5,1.0,Normal
+2260,Canada,Accommodation and food services [72],Payroll employees,Number,2024-04-01,1300880.0,A,2,2024,-365.0,1295590.0,19975.0,25920.0,1230790.0,1360390.0,0.2040895061728395,Normal
+2263,Canada,Other services (except public administration) [81],Payroll employees,Number,2024-04-01,575505.0,A,2,2024,15760.0,547500.0,7870.0,12245.0,516887.5,578112.5,2.28705594120049,Unusual
+2266,Canada,Public administration [91],Payroll employees,Number,2024-04-01,568865.0,A,2,2024,20190.0,517650.0,11125.0,26555.0,451262.5,584037.5,1.9286386744492563,Normal
+2269,Canada,"Total, all industries",Payroll employees,Number,2024-07-01,17305570.0,A,3,2024,141105.0,16115117.5,314250.0,561012.5,14712586.25,17517648.75,2.1219714355740735,Unusual
+2272,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2024-07-01,240710.0,A,3,2024,2310.0,234845.0,3275.0,6605.0,218332.5,251357.5,0.8879636638909917,Normal
+2275,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2024-07-01,215815.0,A,3,2024,2665.0,201995.0,2437.5,7967.5,182076.25,221913.75,1.734546595544399,Normal
+2278,Canada,Utilities [22],Payroll employees,Number,2024-07-01,134655.0,A,3,2024,590.0,126665.0,1500.0,4862.5,114508.75,138821.25,1.6431876606683804,Normal
+2281,Canada,Construction [23],Payroll employees,Number,2024-07-01,1178525.0,A,3,2024,5570.0,1052787.5,19900.0,62135.0,897450.0,1208125.0,2.0236179287036293,Unusual
+2284,Canada,Manufacturing [31-33],Payroll employees,Number,2024-07-01,1558925.0,A,3,2024,-11815.0,1554265.0,24422.5,24422.5,1493208.75,1615321.25,0.19080765687378443,Normal
+2287,Canada,Wholesale trade [41],Payroll employees,Number,2024-07-01,822550.0,A,3,2024,-1640.0,810057.5,7955.0,13412.5,776526.25,843588.75,0.9314072693383039,Normal
+2290,Canada,Retail trade [44-45],Payroll employees,Number,2024-07-01,1995560.0,A,3,2024,-28370.0,1985932.5,2612.5,18305.0,1940170.0,2031695.0,0.5259491942092325,Normal
+2293,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2024-07-01,847800.0,A,3,2024,7305.0,775547.5,16682.5,33587.5,691578.75,859516.25,2.1511723111276515,Unusual
+2296,Canada,Information and cultural industries [51],Payroll employees,Number,2024-07-01,358565.0,A,3,2024,-6080.0,358352.5,-1265.0,2970.0,350927.5,365777.5,0.07154882154882154,Normal
+2299,Canada,Finance and insurance [52],Payroll employees,Number,2024-07-01,849745.0,A,3,2024,16185.0,757807.5,14242.5,35930.0,667982.5,847632.5,2.558794878931255,Unusual
+2302,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2024-07-01,293570.0,A,3,2024,2245.0,292767.5,2830.0,2420.0,286717.5,298817.5,0.33161157024793386,Normal
+2305,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2024-07-01,1228060.0,A,3,2024,8760.0,1017830.0,42847.5,139642.5,668723.75,1366936.25,1.5054872263100416,Normal
+2308,Canada,Management of companies and enterprises [55],Payroll employees,Number,2024-07-01,120925.0,A,3,2024,-5010.0,114432.5,3080.0,9467.5,90763.75,138101.25,0.6857670979667283,Normal
+2311,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2024-07-01,820465.0,A,3,2024,-15365.0,819757.5,6225.0,13692.5,785526.25,853988.75,0.051670622603615116,Normal
+2314,Canada,Educational services [61],Payroll employees,Number,2024-07-01,1480065.0,A,3,2024,48370.0,1344865.0,37962.5,57400.0,1201365.0,1488365.0,2.3554006968641117,Unusual
+2317,Canada,Health care and social assistance [62],Payroll employees,Number,2024-07-01,2394605.0,A,3,2024,88560.0,2122607.5,62685.0,139980.0,1772657.5,2472557.5,1.9431168738391198,Normal
+2320,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2024-07-01,318495.0,A,3,2024,5585.0,298092.5,8637.5,14007.5,263073.75,333111.25,1.4565411386757094,Normal
+2323,Canada,Accommodation and food services [72],Payroll employees,Number,2024-07-01,1297770.0,A,3,2024,-9210.0,1301892.5,19617.5,24792.5,1239911.25,1363873.75,-0.16628012503781386,Normal
+2326,Canada,Other services (except public administration) [81],Payroll employees,Number,2024-07-01,575435.0,A,3,2024,12415.0,546332.5,7852.5,10930.0,519007.5,573657.5,2.662625800548948,Unusual
+2329,Canada,Public administration [91],Payroll employees,Number,2024-07-01,573325.0,A,3,2024,18035.0,515717.5,12580.0,13042.5,483111.25,548323.75,4.416906267970098,Very Unusual
+2332,Canada,"Total, all industries",Payroll employees,Number,2024-10-01,17328070.0,A,4,2024,131280.0,16153080.0,314375.0,750850.0,14275955.0,18030205.0,1.564879802890058,Normal
+2335,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2024-10-01,240805.0,A,4,2024,15.0,233705.0,4565.0,7100.0,215955.0,251455.0,1.0,Normal
+2338,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2024-10-01,217985.0,A,4,2024,4810.0,201695.0,4810.0,6715.0,184907.5,218482.5,2.4259121370067014,Unusual
+2341,Canada,Utilities [22],Payroll employees,Number,2024-10-01,134420.0,A,4,2024,-760.0,126590.0,2135.0,4465.0,115427.5,137752.5,1.7536394176931691,Normal
+2344,Canada,Construction [23],Payroll employees,Number,2024-10-01,1181995.0,A,4,2024,9890.0,1050165.0,29735.0,40725.0,948352.5,1151977.5,3.2370779619398404,Very Unusual
+2347,Canada,Manufacturing [31-33],Payroll employees,Number,2024-10-01,1560885.0,A,4,2024,-6065.0,1560885.0,19530.0,21860.0,1506235.0,1615535.0,0.0,Normal
+2350,Canada,Wholesale trade [41],Payroll employees,Number,2024-10-01,823905.0,A,4,2024,-815.0,812170.0,10200.0,12550.0,780795.0,843545.0,0.9350597609561753,Normal
+2353,Canada,Retail trade [44-45],Payroll employees,Number,2024-10-01,1988235.0,A,4,2024,-32755.0,1987880.0,7065.0,12350.0,1957005.0,2018755.0,0.02874493927125506,Normal
+2356,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2024-10-01,840710.0,A,4,2024,-490.0,771970.0,15110.0,30290.0,696245.0,847695.0,2.269395840211291,Unusual
+2359,Canada,Information and cultural industries [51],Payroll employees,Number,2024-10-01,357975.0,A,4,2024,1425.0,356830.0,1425.0,2220.0,351280.0,362380.0,0.5157657657657657,Normal
+2362,Canada,Finance and insurance [52],Payroll employees,Number,2024-10-01,850650.0,A,4,2024,11900.0,754325.0,12780.0,28290.0,683600.0,825050.0,3.4049133969600565,Very Unusual
+2365,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2024-10-01,293970.0,A,4,2024,3435.0,292390.0,2090.0,2375.0,286452.5,298327.5,0.6652631578947369,Normal
+2368,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2024-10-01,1226040.0,A,4,2024,4095.0,988985.0,28995.0,98640.0,742385.0,1235585.0,2.4032339821573396,Unusual
+2371,Canada,Management of companies and enterprises [55],Payroll employees,Number,2024-10-01,120405.0,A,4,2024,-2750.0,115130.0,1045.0,7890.0,95405.0,134855.0,0.6685678073510773,Normal
+2374,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2024-10-01,819260.0,A,4,2024,-16585.0,819260.0,7425.0,16585.0,777797.5,860722.5,0.0,Normal
+2377,Canada,Educational services [61],Payroll employees,Number,2024-10-01,1485615.0,A,4,2024,50515.0,1356710.0,39360.0,57645.0,1212597.5,1500822.5,2.23618700667881,Unusual
+2380,Canada,Health care and social assistance [62],Payroll employees,Number,2024-10-01,2416205.0,A,4,2024,85885.0,2091775.0,62855.0,125755.0,1777387.5,2406162.5,2.5798576597351994,Unusual
+2383,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2024-10-01,320205.0,A,4,2024,5980.0,296585.0,9135.0,16100.0,256335.0,336835.0,1.4670807453416148,Normal
+2386,Canada,Accommodation and food services [72],Payroll employees,Number,2024-10-01,1296600.0,A,4,2024,-10965.0,1296600.0,20345.0,18295.0,1250862.5,1342337.5,0.0,Normal
+2389,Canada,Other services (except public administration) [81],Payroll employees,Number,2024-10-01,572400.0,A,4,2024,4335.0,547240.0,8130.0,10830.0,520165.0,574315.0,2.3231763619575254,Unusual
+2392,Canada,Public administration [91],Payroll employees,Number,2024-10-01,579805.0,A,4,2024,20170.0,515915.0,12550.0,16260.0,475265.0,556565.0,3.9292742927429276,Very Unusual
+2395,Canada,"Total, all industries",Payroll employees,Number,2025-01-01,17369215.0,A,1,2025,157160.0,16233475.0,226257.5,791880.0,14253775.0,18213175.0,1.4342324594635552,Normal
+2398,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2025-01-01,241975.0,A,1,2025,1710.0,234950.0,2467.5,6447.5,218831.25,251068.75,1.0895696006203954,Normal
+2401,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2025-01-01,218155.0,A,1,2025,6525.0,200472.5,772.5,6127.5,185153.75,215791.25,2.8857609139126885,Unusual
+2404,Canada,Utilities [22],Payroll employees,Number,2025-01-01,135755.0,A,1,2025,1695.0,127075.0,2545.0,4465.0,115912.5,138237.5,1.9440089585666294,Normal
+2407,Canada,Construction [23],Payroll employees,Number,2025-01-01,1182930.0,A,1,2025,9470.0,1043335.0,16180.0,61010.0,890810.0,1195860.0,2.288067529913129,Unusual
+2410,Canada,Manufacturing [31-33],Payroll employees,Number,2025-01-01,1560685.0,A,1,2025,-4100.0,1551620.0,7507.5,15417.5,1513076.25,1590163.75,0.5879682179341658,Normal
+2413,Canada,Wholesale trade [41],Payroll employees,Number,2025-01-01,823220.0,A,1,2025,-655.0,812322.5,4540.0,11230.0,784247.5,840397.5,0.9703918076580588,Normal
+2416,Canada,Retail trade [44-45],Payroll employees,Number,2025-01-01,1988450.0,A,1,2025,-18665.0,1992642.5,1065.0,22745.0,1935780.0,2049505.0,-0.18432622554407563,Normal
+2419,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2025-01-01,851225.0,A,1,2025,11705.0,777977.5,12892.5,39902.5,678221.25,877733.75,1.8356619259444897,Normal
+2422,Canada,Information and cultural industries [51],Payroll employees,Number,2025-01-01,352865.0,A,1,2025,-7115.0,358825.0,-1115.0,6577.5,342381.25,375268.75,-0.9061193462561764,Normal
+2425,Canada,Finance and insurance [52],Payroll employees,Number,2025-01-01,853175.0,A,1,2025,11390.0,747847.5,9717.5,26832.5,680766.25,814928.75,3.9253703531165565,Very Unusual
+2428,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2025-01-01,294365.0,A,1,2025,1955.0,292810.0,1387.5,2160.0,287410.0,298210.0,0.7199074074074074,Normal
+2431,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2025-01-01,1229540.0,A,1,2025,6670.0,991570.0,25527.5,119185.0,693607.5,1289532.5,1.996643872970592,Normal
+2434,Canada,Management of companies and enterprises [55],Payroll employees,Number,2025-01-01,119870.0,A,1,2025,-1040.0,114257.5,1797.5,8630.0,92682.5,135832.5,0.6503476245654692,Normal
+2437,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2025-01-01,823460.0,A,1,2025,-5570.0,819570.0,8152.5,17922.5,774763.75,864376.25,0.21704561305621425,Normal
+2440,Canada,Educational services [61],Payroll employees,Number,2025-01-01,1479810.0,A,1,2025,34440.0,1351105.0,31960.0,61657.5,1196961.25,1505248.75,2.0874184000324374,Unusual
+2443,Canada,Health care and social assistance [62],Payroll employees,Number,2025-01-01,2437480.0,A,1,2025,87635.0,2105047.5,59932.5,138162.5,1759641.25,2450453.75,2.4060978919750293,Unusual
+2446,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2025-01-01,322240.0,A,1,2025,7800.0,300275.0,9102.5,14527.5,263956.25,336593.75,1.511960075718465,Normal
+2449,Canada,Accommodation and food services [72],Payroll employees,Number,2025-01-01,1297595.0,A,1,2025,-4375.0,1296117.5,16772.5,31842.5,1216511.25,1375723.75,0.04640025123655492,Normal
+2452,Canada,Other services (except public administration) [81],Payroll employees,Number,2025-01-01,571780.0,A,1,2025,-1580.0,548865.0,1970.0,8710.0,527090.0,570640.0,2.6308840413318024,Unusual
+2455,Canada,Public administration [91],Payroll employees,Number,2025-01-01,584645.0,A,1,2025,19270.0,516762.5,12777.5,19030.0,469187.5,564337.5,3.56713084603258,Very Unusual
+2458,Canada,"Total, all industries",Payroll employees,Number,2025-04-01,17333255.0,A,2,2025,51675.0,16215525.0,242115.0,792955.0,14233137.5,18197912.5,1.4095755749065206,Normal
+2461,Canada,"Agriculture, forestry, fishing and hunting [11]",Payroll employees,Number,2025-04-01,240705.0,A,2,2025,-1300.0,238605.0,3460.0,6395.0,222617.5,254592.5,0.328381548084441,Normal
+2464,Canada,"Mining, quarrying, and oil and gas extraction [21]",Payroll employees,Number,2025-04-01,219175.0,A,2,2025,6930.0,201650.0,3615.0,10595.0,175162.5,228137.5,1.6540821142048137,Normal
+2467,Canada,Utilities [22],Payroll employees,Number,2025-04-01,135410.0,A,2,2025,-25.0,127485.0,3390.0,4560.0,116085.0,138885.0,1.7379385964912282,Normal
+2470,Canada,Construction [23],Payroll employees,Number,2025-04-01,1178965.0,A,2,2025,-865.0,1053595.0,19370.0,68660.0,881945.0,1225245.0,1.8259539761141859,Normal
+2473,Canada,Manufacturing [31-33],Payroll employees,Number,2025-04-01,1550885.0,A,2,2025,-13385.0,1550885.0,7805.0,13385.0,1517422.5,1584347.5,0.0,Normal
+2476,Canada,Wholesale trade [41],Payroll employees,Number,2025-04-01,820455.0,A,2,2025,-3295.0,809120.0,1045.0,13585.0,775157.5,843082.5,0.8343761501656238,Normal
+2479,Canada,Retail trade [44-45],Payroll employees,Number,2025-04-01,1980185.0,A,2,2025,-24670.0,1980185.0,985.0,29785.0,1905722.5,2054647.5,0.0,Normal
+2482,Canada,Transportation and warehousing [48-49],Payroll employees,Number,2025-04-01,851230.0,A,2,2025,8815.0,776305.0,8815.0,41930.0,671480.0,881130.0,1.786906749344145,Normal
+2485,Canada,Information and cultural industries [51],Payroll employees,Number,2025-04-01,348805.0,A,2,2025,-12255.0,359060.0,-5185.0,9570.0,335135.0,382985.0,-1.0715778474399165,Normal
+2488,Canada,Finance and insurance [52],Payroll employees,Number,2025-04-01,849835.0,A,2,2025,2970.0,754175.0,8095.0,33265.0,671012.5,837337.5,2.8756951751089734,Unusual
+2491,Canada,Real estate and rental and leasing [53],Payroll employees,Number,2025-04-01,294200.0,A,2,2025,805.0,293220.0,1045.0,1045.0,290607.5,295832.5,0.937799043062201,Normal
+2494,Canada,"Professional, scientific and technical services [54]",Payroll employees,Number,2025-04-01,1230480.0,A,2,2025,5070.0,1023140.0,36355.0,137770.0,678715.0,1367565.0,1.5049720548740655,Normal
+2497,Canada,Management of companies and enterprises [55],Payroll employees,Number,2025-04-01,118370.0,A,2,2025,-3685.0,115700.0,1735.0,8175.0,95262.5,136137.5,0.326605504587156,Normal
+2500,Canada,"Administrative and support, waste management and remediation services [56]",Payroll employees,Number,2025-04-01,824235.0,A,2,2025,-2970.0,824235.0,5455.0,12070.0,794060.0,854410.0,0.0,Normal
+2503,Canada,Educational services [61],Payroll employees,Number,2025-04-01,1468990.0,A,2,2025,3975.0,1347305.0,36600.0,76895.0,1155067.5,1539542.5,1.5824826061512451,Normal
+2506,Canada,Health care and social assistance [62],Payroll employees,Number,2025-04-01,2449900.0,A,2,2025,75975.0,2142450.0,62430.0,146570.0,1776025.0,2508875.0,2.0976325305314867,Unusual
+2509,Canada,"Arts, entertainment and recreation [71]",Payroll employees,Number,2025-04-01,325090.0,A,2,2025,8495.0,299630.0,8495.0,16965.0,257217.5,342042.5,1.5007368110816386,Normal
+2512,Canada,Accommodation and food services [72],Payroll employees,Number,2025-04-01,1284905.0,A,2,2025,-15975.0,1295590.0,19975.0,25920.0,1230790.0,1360390.0,-0.4122299382716049,Normal
+2515,Canada,Other services (except public administration) [81],Payroll employees,Number,2025-04-01,571790.0,A,2,2025,-3715.0,547500.0,7870.0,12245.0,516887.5,578112.5,1.9836668027766435,Normal
+2518,Canada,Public administration [91],Payroll employees,Number,2025-04-01,589650.0,A,2,2025,20785.0,517650.0,11125.0,26555.0,451262.5,584037.5,2.711353794012427,Unusual
